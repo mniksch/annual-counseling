@@ -1,0 +1,1496 @@
+College Name,Selectivity,UNITID
+Alabama A&M University,COMPETITIVE,100654
+University of Alabama at Birmingham,COMPETITIVE,100663
+University of Alabama in Huntsville,VERY COMPETITIVE,100706
+Alabama State University,NONCOMPETITIVE,100724
+University of Alabama,COMPETITIVE+,100751
+Auburn University at Montgomery,COMPETITIVE,100830
+Auburn University,VERY COMPETITIVE+,100858
+Birmingham-Southern College,VERY COMPETITIVE,100937
+Faulkner University,COMPETITIVE,101189
+Huntingdon College,COMPETITIVE,101435
+Jacksonville State University,LESS COMPETITIVE,101480
+Judson College,COMPETITIVE,101541
+University of West Alabama,NONCOMPETITIVE,101587
+Miles College,NONCOMPETITIVE,101675
+University of Mobile,COMPETITIVE,101693
+University of Montevallo,COMPETITIVE,101709
+University of North Alabama,COMPETITIVE,101879
+Oakwood University,COMPETITIVE,101912
+Samford University,VERY COMPETITIVE,102049
+University of South Alabama,COMPETITIVE,102094
+Spring Hill College,COMPETITIVE,102234
+Stillman College,COMPETITIVE,102270
+Talladega College,COMPETITIVE,102298
+Troy University,COMPETITIVE,102368
+Tuskegee University,COMPETITIVE,102377
+University of Alaska Anchorage,NONCOMPETITIVE,102553
+University of Alaska Fairbanks,COMPETITIVE,102614
+University of Alaska Southeast,COMPETITIVE,102632
+Alaska Pacific University,VERY COMPETITIVE,102669
+Arizona State University at the Tempe Campus,VERY COMPETITIVE,104151
+University of Arizona,COMPETITIVE,104179
+Embry-Riddle Aeronautical University - Prescott Campus,VERY  COMPETITIVE,104586
+Grand Canyon University,VERY COMPETITIVE,104717
+SAGU American Indian College,COMPETITIVE,105297
+Northern Arizona University,VERY COMPETITIVE,105330
+Prescott College,COMPETITIVE,105589
+University of Arkansas at Little Rock,COMPETITIVE,106245
+Arkansas Baptist College,NONCOMPETITIVE,106306
+Lyon College,COMPETITIVE+,106342
+University of Arkansas at Fayetteville,COMPETITIVE+,106397
+University of Arkansas at Pine Bluff,COMPETITIVE,106412
+Arkansas State University,COMPETITIVE,106458
+Arkansas Tech University,COMPETITIVE,106467
+University of Arkansas at Monticello,NONCOMPETITIVE,106485
+University of Central Arkansas,VERY COMPETITIVE,106704
+Harding University,COMPETITIVE,107044
+Henderson State University,LESS COMPETITIVE,107071
+Hendrix College,VERY COMPETITIVE+,107080
+John Brown University,VERY COMPETITIVE,107141
+Ouachita Baptist University,COMPETITIVE,107512
+University of the Ozarks,COMPETITIVE,107558
+Philander Smith College,LESS COMPETITIVE,107600
+Williams Baptist College,COMPETITIVE,107877
+Southern Arkansas University,COMPETITIVE,107983
+ArtCenter College of Design,SPECIAL,109651
+Azusa Pacific University,COMPETITIVE,109785
+Biola University,COMPETITIVE+,110097
+California Baptist University,COMPETITIVE,110361
+California College of the Arts,SPECIAL,110370
+California Institute of Technology,MOST COMPETITIVE,110404
+California Lutheran University,COMPETITIVE,110413
+California Polytechnic State University,HIGHLY COMPETITIVE+,110422
+"California State University, Bakersfield",LESS COMPETITIVE,110486
+"California State University, Stanislaus",COMPETITIVE,110495
+"California State University, San Bernardino",COMPETITIVE,110510
+"California State Polytechnic University, Pomona",COMPETITIVE,110529
+"California State University, Chico",COMPETITIVE,110538
+"California State University, Dominguez Hills",LESS COMPETITIVE,110547
+"California State University, Fresno",LESS COMPETITIVE,110556
+"California State University, Fullerton",COMPETITIVE,110565
+"California State University, East Bay",COMPETITIVE,110574
+"California State University, Long Beach",COMPETITIVE,110583
+"California State University, Los Angeles",LESS COMPETITIVE,110592
+"California State University, Northridge",LESS COMPETITIVE,110608
+"California State University, Sacramento",COMPETITIVE,110617
+University of California at Berkeley,MOST COMPETITIVE,110635
+University of California at Davis,HIGHLY COMPETITIVE,110644
+University of California at Irvine,VERY COMPETITIVE,110653
+University of California at Los Angeles,MOST COMPETITIVE,110662
+University of California at Riverside,COMPETITIVE+,110671
+University of California San Diego,MOST COMPETITIVE,110680
+University of California at Santa Barbara,HIGHLY COMPETITIVE,110705
+"University of California, Santa Cruz",COMPETITIVE+,110714
+California Institute of the Arts,SPECIAL,111081
+"California State University,  Maritime Academy",LESS COMPETITIVE,111188
+Chapman University,VERY COMPETITIVE+,111948
+Concordia University Irvine,VERY COMPETITIVE,112075
+San Diego Christian College,COMPETITIVE,112084
+Claremont McKenna College,MOST COMPETITIVE,112260
+Cogswell Polytechnical College,COMPETITIVE,112394
+Dominican University of California,COMPETITIVE,113698
+Fresno Pacific University,COMPETITIVE,114813
+Golden Gate University,COMPETITIVE,115083
+Harvey Mudd College,MOST COMPETITIVE,115409
+Holy Names University,LESS COMPETITIVE,115728
+Humboldt State University,COMPETITIVE,115755
+Humphreys College,COMPETITIVE,115773
+American Jewish University - College of Arts and Sciences,COMPETITIVE,116846
+University of La Verne,COMPETITIVE,117140
+Laguna College of Art and Design,LESS COMPETITIVE,117168
+La Sierra University,VERY COMPETITIVE,117627
+The Master's  University,COMPETITIVE+,117751
+Loyola Marymount University,HIGHLY COMPETITIVE,117946
+Menlo College,LESS COMPETITIVE,118693
+Mills College,VERY COMPETITIVE,118888
+Mount St. Mary's University - Chalon Campus,VERY COMPETITIVE+,119173
+National University,LESS COMPETITIVE,119605
+Notre Dame de Namur University,LESS COMPETITIVE,120184
+Occidental College,MOST COMPETITIVE,120254
+Otis College of Art and Design,SPECIAL,120403
+Hope International University,COMPETITIVE,120537
+Pacific Union College,VERY COMPETITIVE,120865
+University of the Pacific,VERY COMPETITIVE,120883
+Pepperdine University,HIGHLY COMPETITIVE+,121150
+Pitzer College,MOST COMPETITIVE,121257
+Point Loma Nazarene University,COMPETITIVE,121309
+Pomona College,MOST COMPETITIVE,121345
+University of Redlands,VERY COMPETITIVE,121691
+San Diego State University,COMPETITIVE+,122409
+University of San Diego,VERY COMPETITIVE+,122436
+San Francisco Art Institute,SPECIAL,122454
+San Francisco Conservatory of Music,SPECIAL,122506
+San Francisco State University,LESS COMPETITIVE,122597
+University of San Francisco,VERY COMPETITIVE,122612
+San Jose State University,COMPETITIVE,122755
+Scripps College,MOST COMPETITIVE,123165
+Simpson University,COMPETITIVE,123457
+Saint Mary's College of California,COMPETITIVE,123554
+Sonoma State University,COMPETITIVE,123572
+Vanguard University of Southern California,VERY COMPETITIVE,123651
+University of Southern California,COMPETITIVE,123961
+Thomas Aquinas College,HIGHLY COMPETITIVE,124292
+Westmont College,HIGHLY COMPETITIVE,125727
+Whittier College,COMPETITIVE,125763
+Woodbury University,LESS COMPETITIVE,125897
+Adams State University,LESS COMPETITIVE,126182
+University of Colorado Denver,COMPETITIVE,126562
+University of Colorado Colorado Springs,COMPETITIVE,126580
+University of Colorado Boulder,VERY COMPETITIVE+,126614
+Colorado Christian University,VERY COMPETITIVE,126669
+Colorado College,MOST COMPETITIVE,126678
+Colorado School of Mines,MOST COMPETITIVE,126775
+Colorado State University,VERY COMPETITIVE,126818
+Colorado Technical University,NON COMPETITIVE,126827
+University of Denver,VERY COMPETITIVE+,127060
+Fort Lewis College,COMPETITIVE,127185
+Colorado Mesa University,LESS COMPETITIVE,127556
+Metropolitan State University of Denver,LESS COMPETITIVE,127565
+Naropa University,NONCOMPETITIVE,127653
+University of Northern Colorado,COMPETITIVE,127741
+Regis University,COMPETITIVE,127918
+Colorado State University-Pueblo,COMPETITIVE,128106
+United States Air Force Academy,COMPETITIVE,128328
+Western State Colorado University,COMPETITIVE,128391
+Albertus Magnus College,LESS COMPETITIVE,128498
+University of Bridgeport,LESS COMPETITIVE,128744
+Central Connecticut State University,COMPETITIVE,128771
+Charter Oak State College,LESS COMPETITIVE,128780
+Connecticut College,MOST COMPETITIVE,128902
+University of Connecticut,HIGHLY COMPETITIVE,129020
+Eastern Connecticut State University,COMPETITIVE,129215
+Fairfield University,VERY COMPETITIVE+,129242
+University of Hartford,COMPETITIVE,129525
+Mitchell College,COMPETITIVE,129774
+University of New Haven,COMPETITIVE,129941
+Post University,COMPETITIVE,130183
+Quinnipiac University,COMPETITIVE,130226
+Sacred Heart University,COMPETITIVE,130253
+University of Saint Joseph,COMPETITIVE,130314
+Southern Connecticut State University,LESS COMPETITIVE,130493
+Trinity College,HIGHLY COMPETITIVE+,130590
+United States Coast Guard Academy,MOST COMPETITIVE,130624
+Wesleyan University,MOST COMPETITIVE,130697
+Western Connecticut State University,LESS COMPETITIVE,130776
+Yale University,MOST COMPETITIVE,130794
+Delaware State University,NONCOMPETITIVE,130934
+University of Delaware,VERY COMPETITIVE+,130943
+Goldey-Beacom College,COMPETITIVE,130989
+Wesley College,LESS COMPETITIVE,131098
+Wilmington University,NONCOMPETITIVE,131113
+American University,HIGHLY COMPETITIVE+,131159
+The Catholic University of America,VERY COMPETITIVE,131283
+University of the District of Columbia,LESS COMPETITIVE,131399
+Gallaudet University,LESS COMPETITIVE,131450
+The George Washington University,MOST COMPETITIVE,131469
+Georgetown University,MOST COMPETITIVE,131496
+Howard University,COMPETITIVE+,131520
+Trinity Washington University,COMPETITIVE+,131876
+Barry University,COMPETITIVE,132471
+Bethune-Cookman University,COMPETITIVE,132602
+Lynn University,LESS COMPETITIVE,132657
+Carlos Albizu University,LESS COMPETITIVE,132842
+University of Central Florida,VERY COMPETITIVE,132903
+Eckerd College,COMPETITIVE,133492
+Edward Waters College,NONCOMPETITIVE,133526
+Embry-Riddle Aeronautical University - Daytona Beach,VERY COMPETITIVE,133553
+Florida Agricultural and Mechanical University,COMPETITIVE,133650
+Florida Atlantic University,COMPETITIVE,133669
+Flagler College,COMPETITIVE,133711
+Adventist University of Health Sciences,NONCOMPETITIVE,133872
+Florida Institute of Technology,VERY COMPETITIVE,133881
+Florida International University,COMPETITIVE+,133951
+Florida Memorial University,LESS COMPETITIVE,133979
+Florida Southern College,COMPETITIVE+,134079
+Florida State University,HIGHLY COMPETITIVE,134097
+University of Florida,HIGHLY COMPETITIVE+,134130
+Jacksonville University,COMPETITIVE,134945
+Keiser University,LESS COMPETITIVE,135081
+University of Miami,MOST COMPETITIVE,135726
+University of North Florida,VERY COMPETITIVE,136172
+Nova Southeastern University,COMPETITIVE+,136215
+Palm Beach Atlantic University,COMPETITIVE,136330
+Ringling College of Art and Design,SPECIAL,136774
+Rollins College,HIGHLY COMPETITIVE,136950
+Saint Leo University,COMPETITIVE,137032
+University of South Florida/Tampa,VERY COMPETITIVE+,137351
+St. Thomas University,LESS COMPETITIVE,137476
+Stetson University,VERY COMPETITIVE,137546
+Southeastern University,COMPETITIVE,137564
+University of Tampa,COMPETITIVE,137847
+Webber International University,COMPETITIVE,138293
+University of West Florida,COMPETITIVE,138354
+Agnes Scott College,VERY COMPETITIVE+,138600
+Albany State University,COMPETITIVE,138716
+Armstrong State University,COMPETITIVE,138789
+The Art Institute of Atlanta,SPECIAL,138813
+Clark Atlanta University,LESS COMPETITIVE,138947
+Berry College,COMPETITIVE+,139144
+Brenau University - Women's College,LESS COMPETITIVE,139199
+Brewton-Parker College,COMPETITIVE,139205
+Clayton State University,COMPETITIVE,139311
+Columbus State University,LESS COMPETITIVE,139366
+Covenant College,VERY COMPETITIVE,139393
+South University,LESS COMPETITIVE,139579
+Emory University,MOST COMPETITIVE,139658
+Fort Valley State University,VERY COMPETITIVE,139719
+Georgia Institute of Technology,MOST COMPETITIVE,139755
+Georgia Southwestern State University,COMPETITIVE,139764
+Georgia College & State University,COMPETITIVE+,139861
+Georgia Southern University,COMPETITIVE,139931
+Georgia State University,VERY COMPETITIVE,139940
+University of Georgia,HIGHLY COMPETITIVE,139959
+LaGrange College,COMPETITIVE,140234
+Mercer University,VERY COMPETITIVE,140447
+Morehouse College,COMPETITIVE,140553
+Oglethorpe University,COMPETITIVE+,140696
+Paine College,LESS COMPETITIVE,140720
+Piedmont College,COMPETITIVE,140818
+Reinhardt University,COMPETITIVE,140872
+Savannah College of Art and Design,COMPETITIVE,140951
+Savannah State University,COMPETITIVE,140960
+Shorter University,LESS COMPETITIVE,140988
+Spelman College,COMPETITIVE,141060
+Thomas University,LESS COMPETITIVE,141167
+Toccoa Falls College,COMPETITIVE,141185
+Valdosta State University,COMPETITIVE,141264
+Wesleyan College,COMPETITIVE+,141325
+University of West Georgia,LESS COMPETITIVE,141334
+Chaminade University of Honolulu,COMPETITIVE,141486
+University of Hawaii at Hilo,COMPETITIVE,141565
+University of Hawaii at Manoa,COMPETITIVE,141574
+Hawaii Pacific University,COMPETITIVE,141644
+Boise State University,COMPETITIVE,142115
+Idaho State University,NONCOMPETITIVE,142276
+University of Idaho,COMPETITIVE,142285
+The College of Idaho,COMPETITIVE,142294
+Lewis-Clark State College,COMPETITIVE,142328
+Northwest Nazarene University,COMPETITIVE,142461
+School of the Art Institute of Chicago,SPECIAL,143048
+Augustana College,VERY COMPETITIVE,143084
+Aurora University,COMPETITIVE,143118
+Blackburn College,LESS COMPETITIVE,143288
+Bradley University,VERY COMPETITIVE,143358
+Chicago State University,COMPETITIVE,144005
+University of Chicago,MOST COMPETITIVE,144050
+Columbia College Chicago,COMPETITIVE,144281
+"Concordia University, Chicago",COMPETITIVE,144351
+DePaul University,VERY COMPETITIVE,144740
+Eastern Illinois University,COMPETITIVE,144892
+Elmhurst College,COMPETITIVE,144962
+Eureka College,COMPETITIVE,144971
+Greenville College,COMPETITIVE,145372
+University of Illinois at Chicago,VERY COMPETITIVE,145600
+Benedictine University,COMPETITIVE,145619
+University of Illinois at Urbana-Champaign,HIGHLY COMPETITIVE,145637
+Illinois Wesleyan University,VERY COMPETITIVE+,145646
+Illinois College,VERY COMPETITIVE,145691
+Illinois Institute of Technology,HIGHLY COMPETITIVE+,145725
+Illinois State University,VERY COMPETITIVE,145813
+Judson University,COMPETITIVE,146339
+Kendall College,COMPETITIVE,146393
+Knox College,VERY COMPETITIVE+,146427
+Lake Forest College,VERY COMPETITIVE,146481
+Lewis University,COMPETITIVE,146612
+Loyola University Chicago,VERY COMPETITIVE,146719
+Trinity College of Nursing and Health Sciences,SPECIAL,146755
+MacMurray College,COMPETITIVE,146825
+McKendree University,COMPETITIVE+,147013
+Millikin University,COMPETITIVE,147244
+Monmouth College,COMPETITIVE,147341
+National Louis University,LESS COMPETITIVE,147536
+North Central College,VERY COMPETITIVE,147660
+North Park University,COMPETITIVE,147679
+Northern Illinois University,COMPETITIVE,147703
+Northwestern University,MOST COMPETITIVE,147767
+Northeastern Illinois University,LESS COMPETITIVE,147776
+Olivet Nazarene University,COMPETITIVE,147828
+Principia College,COMPETITIVE+,148016
+Quincy University,COMPETITIVE,148131
+Rockford University,COMPETITIVE,148405
+Roosevelt University,VERY COMPETITIVE,148487
+Dominican University,COMPETITIVE,148496
+University of St. Francis,COMPETITIVE,148584
+Saint Xavier University,COMPETITIVE,148627
+Southern Illinois University Carbondale,COMPETITIVE,149222
+Southern Illinois University Edwardsville,COMPETITIVE,149231
+Trinity Christian College,COMPETITIVE,149505
+Trinity International University,VERY COMPETITIVE,149514
+VanderCook College of Music,NONCOMPETITIVE,149639
+Western Illinois University,COMPETITIVE,149772
+Wheaton College,MOST COMPETITIVE,149781
+Anderson University,COMPETITIVE,150066
+Ball State University,COMPETITIVE,150136
+Bethel College,COMPETITIVE,150145
+Butler University,VERY COMPETITIVE,150163
+Calumet College of St. Joseph,COMPETITIVE,150172
+DePauw University,HIGHLY COMPETITIVE+,150400
+Earlham College,HIGHLY COMPETITIVE,150455
+University of Evansville,VERY COMPETITIVE+,150534
+Franklin College,COMPETITIVE,150604
+Goshen College,COMPETITIVE,150668
+Grace College and Seminary,COMPETITIVE,150677
+Hanover College,COMPETITIVE+,150756
+Huntington University,COMPETITIVE,150941
+Indiana University-Purdue University Fort Wayne,COMPETITIVE,151102
+Indiana University-Purdue University Indianapolis,COMPETITIVE,151111
+University of Indianapolis,COMPETITIVE,151263
+Indiana Institute of Technology,LESS COMPETITIVE,151290
+University of Southern Indiana,COMPETITIVE,151306
+Indiana State University,LESS COMPETITIVE,151324
+Indiana University Kokomo,COMPETITIVE,151333
+Indiana University South Bend,COMPETITIVE,151342
+Indiana University Bloomington,VERY COMPETITIVE,151351
+Indiana University Northwest,COMPETITIVE,151360
+Indiana University Southeast,LESS COMPETITIVE,151379
+Indiana University East,COMPETITIVE,151388
+Manchester University,COMPETITIVE,151777
+Marian University,COMPETITIVE,151786
+Indiana Wesleyan University,COMPETITIVE,151801
+Martin University,LESS COMPETITIVE,151810
+University of Notre Dame,MOST COMPETITIVE,152080
+Oakland City University,NON COMPETITIVE,152099
+Rose-Hulman Institute of Technology,MOST COMPETITIVE,152318
+University of Saint Francis,COMPETITIVE,152336
+Saint Joseph's College,COMPETITIVE,152363
+Saint Mary-of-the-Woods College,LESS COMPETITIVE,152381
+Saint Mary's College,COMPETITIVE,152390
+Taylor University,COMPETITIVE+,152530
+Trine University,COMPETITIVE,152567
+Valparaiso University,COMPETITIVE+,152600
+Wabash College,VERY COMPETITIVE,152673
+Allen College,NONCOMPETITIVE,152798
+Briar Cliff University,COMPETITIVE,152992
+Buena Vista University,COMPETITIVE,153001
+Central College,COMPETITIVE,153108
+Clarke University,COMPETITIVE,153126
+Coe College,VERY COMPETITIVE,153144
+Cornell College,VERY COMPETITIVE,153162
+Dordt College,COMPETITIVE+,153250
+Drake University,HIGHLY COMPETITIVE,153269
+University of Dubuque,COMPETITIVE,153278
+Graceland University,COMPETITIVE,153366
+Grand View University,COMPETITIVE,153375
+Grinnell College,MOST COMPETITIVE,153384
+Iowa State University,COMPETITIVE,153603
+Iowa Wesleyan University,COMPETITIVE,153621
+University of Iowa,VERY COMPETITIVE+,153658
+Loras College,COMPETITIVE,153825
+Luther College,COMPETITIVE+,153834
+Maharishi University of Management,VERY COMPETITIVE,153861
+Mercy College of Health Sciences,COMPETITIVE,153977
+Morningside College,COMPETITIVE,154004
+Mount Mercy University,COMPETITIVE,154013
+Ashford University,COMPETITIVE,154022
+University of Northern Iowa,COMPETITIVE,154095
+Northwestern College of Iowa,COMPETITIVE+,154101
+St. Ambrose University,COMPETITIVE,154235
+Simpson College,VERY COMPETITIVE,154350
+Upper Iowa University,NONCOMPETITIVE,154493
+Wartburg College,COMPETITIVE,154527
+William Penn University,COMPETITIVE,154590
+Baker University,COMPETITIVE+,154688
+Benedictine College,VERY COMPETITIVE,154712
+Bethany College,NONCOMPETITIVE,154721
+Bethel College,COMPETITIVE,154749
+Emporia State University,COMPETITIVE,155025
+Fort Hays State University,COMPETITIVE,155061
+Friends University,COMPETITIVE,155089
+University of Kansas,COMPETITIVE+,155317
+Newman University,COMPETITIVE,155335
+Kansas State University,VERY COMPETITIVE,155399
+Kansas Wesleyan University,COMPETITIVE,155414
+McPherson College,COMPETITIVE,155511
+MidAmerica Nazarene University,COMPETITIVE,155520
+Ottawa University,VERY COMPETITIVE,155627
+Pittsburg State University,NONCOMPETITIVE,155681
+University of Saint Mary,COMPETITIVE,155812
+Southwestern College,COMPETITIVE,155900
+Sterling College,COMPETITIVE,155937
+Tabor College,COMPETITIVE,155973
+Washburn University,COMPETITIVE,156082
+Wichita State University,COMPETITIVE,156125
+Alice Lloyd College,COMPETITIVE,156189
+Asbury University,COMPETITIVE+,156213
+Bellarmine University,COMPETITIVE,156286
+Berea College,COMPETITIVE,156295
+Brescia University,VERY COMPETITIVE+,156356
+Campbellsville University,COMPETITIVE,156365
+Centre College,HIGHLY COMPETITIVE,156408
+University of the Cumberlands,COMPETITIVE,156541
+Eastern Kentucky University,COMPETITIVE,156620
+Georgetown College,COMPETITIVE,156745
+Kentucky State University,LESS COMPETITIVE,157058
+Kentucky Wesleyan College,COMPETITIVE,157076
+University of Kentucky,COMPETITIVE,157085
+Kentucky Christian University,LESS COMPETITIVE,157100
+Lindsey Wilson College,COMPETITIVE,157216
+University of Louisville,COMPETITIVE,157289
+Midway University,LESS COMPETITIVE,157377
+Morehead State University,COMPETITIVE,157386
+Murray State University,COMPETITIVE,157401
+Northern Kentucky University,COMPETITIVE,157447
+University of Pikeville,NONCOMPETITIVE,157535
+Spalding University,COMPETITIVE,157757
+Thomas More College,COMPETITIVE,157809
+Transylvania University,VERY COMPETITIVE+,157818
+Union College,COMPETITIVE,157863
+Western Kentucky University,COMPETITIVE,157951
+Centenary College of Louisiana,COMPETITIVE+,158477
+Dillard University,VERY COMPETITIVE,158802
+Grambling State University,COMPETITIVE,159009
+Louisiana State University and A&M College,VERY COMPETITIVE,159391
+Louisiana State University in Shreveport,COMPETITIVE,159416
+Louisiana College,COMPETITIVE,159568
+Louisiana Tech University,VERY COMPETITIVE,159647
+Loyola University New Orleans,VERY COMPETITIVE+,159656
+McNeese State University,COMPETITIVE,159717
+University of New Orleans,COMPETITIVE,159939
+Nicholls State University,COMPETITIVE,159966
+University of Louisiana at Monroe,COMPETITIVE,159993
+Northwestern State University of Louisiana,COMPETITIVE,160038
+University of Holy Cross,COMPETITIVE,160065
+Southeastern Louisiana University,COMPETITIVE,160612
+Southern University and A&M College,LESS COMPETITIVE+,160621
+Southern University at New Orleans,LESS COMPETITIVE,160630
+University of Louisiana at Lafayette,COMPETITIVE,160658
+Tulane University,HIGHLY COMPETITIVE+,160755
+Xavier University of Louisiana,COMPETITIVE+,160904
+College of the Atlantic,HIGHLY COMPETITIVE+,160959
+Bates College,MOST COMPETITIVE,160977
+Bowdoin College,MOST COMPETITIVE,161004
+Colby College,MOST COMPETITIVE,161086
+University of Maine at Augusta,COMPETITIVE,161217
+University of Maine at Farmington,COMPETITIVE,161226
+University of Maine at Fort Kent,LESS COMPETITIVE,161235
+University of Maine at Machias,COMPETITIVE,161244
+University of Maine,COMPETITIVE,161253
+Maine Maritime Academy,COMPETITIVE,161299
+University of Maine at Presque Isle,COMPETITIVE,161341
+University of New England,COMPETITIVE,161457
+Maine College of Art,SPECIAL,161509
+Saint Joseph's College of Maine,COMPETITIVE,161518
+University of Southern Maine,COMPETITIVE,161554
+Thomas College,LESS COMPETITIVE,161563
+Unity College,COMPETITIVE,161572
+Bowie State University,LESS COMPETITIVE,162007
+Capitol Technology University,COMPETITIVE,162061
+Washington Adventist University,LESS COMPETITIVE,162210
+Coppin State University,VERY COMPETITIVE,162283
+Frostburg State University,LESS COMPETITIVE,162584
+Goucher College,VERY COMPETITIVE,162654
+Hood College,COMPETITIVE,162760
+Johns Hopkins University,MOST COMPETITIVE,162928
+Loyola University Maryland,VERY COMPETITIVE,163046
+University of Maryland/University College,LESS COMPETITIVE,163204
+University of Maryland/Baltimore County,VERY COMPETITIVE,163268
+University of Maryland/College Park,HIGHLY COMPETITIVE,163286
+Maryland Institute College of Art,SPECIAL,163295
+University of Maryland/Eastern Shore,COMPETITIVE,163338
+Morgan State University,LESS COMPETITIVE,163453
+Mount St. Mary's University,COMPETITIVE,163462
+Notre Dame of Maryland University,VERY COMPETITIVE,163578
+Salisbury University,VERY COMPETITIVE,163851
+St. Mary's College of Maryland,VERY COMPETITIVE,163912
+St. John's College-Annapolis,MOST COMPETITIVE,163976
+Towson University,VERY COMPETITIVE,164076
+United States Naval Academy,MOST COMPETITIVE,164155
+Stevenson University,COMPETITIVE,164173
+Washington College,VERY COMPETITIVE,164216
+McDaniel College,VERY COMPETITIVE,164270
+American International College,LESS COMPETITIVE,164447
+Amherst College,HIGHLY COMPETITIVE+,164465
+Anna Maria College,COMPETITIVE,164492
+Assumption College,COMPETITIVE+,164562
+Babson College,HIGHLY COMPETITIVE,164580
+Bay Path University,COMPETITIVE,164632
+Becker College,COMPETITIVE,164720
+Bentley University,HIGHLY COMPETITIVE,164739
+The Boston Conservatory at Berklee,COMPETITIVE+,164748
+Boston Architectural College,NONCOMPETITIVE,164872
+Boston College,MOST COMPETITIVE,164924
+Boston University,MOST COMPETITIVE,164988
+Brandeis University,MOST COMPETITIVE,165015
+Bridgewater State University,COMPETITIVE,165024
+Cambridge College,NONCOMPETITIVE,165167
+Clark University,HIGHLY COMPETITIVE+,165334
+Curry College,COMPETITIVE,165529
+Eastern Nazarene College,COMPETITIVE,165644
+Emerson College,HIGHLY COMPETITIVE,165662
+Emmanuel College,COMPETITIVE+,165671
+Endicott College,VERY COMPETITIVE+,165699
+Fitchburg State University,COMPETITIVE,165820
+Framingham State University,COMPETITIVE,165866
+Benjamin Franklin Institute of Technology,COMPETITIVE,165884
+Gordon College,COMPETITIVE+,165936
+Hampshire College,MOST COMPETITIVE,166018
+Harvard College/Harvard University,MOST COMPETITIVE,166027
+Hellenic College/Holy Cross Greek Orthodox School of Theology,COMPETITIVE,166054
+College of the Holy Cross,MOST COMPETITIVE,166124
+Lasell College,COMPETITIVE,166391
+Lesley University,COMPETITIVE,166452
+University of Massachusetts Lowell,COMPETITIVE,166513
+University of Massachusetts Amherst,VERY COMPETITIVE+,166629
+University of Massachusetts Boston,COMPETITIVE,166638
+MCPHS University,SPECIAL,166656
+Massachusetts College of Art and Design,SPECIAL,166674
+Massachusetts Institute of Technology,MOST COMPETITIVE,166683
+Massachusetts Maritime Academy,COMPETITIVE,166692
+Merrimack College,COMPETITIVE,166850
+Montserrat College of Art,SPECIAL,166911
+Mount Holyoke College,MOST COMPETITIVE,166939
+Mount Ida College,COMPETITIVE,166948
+New England Conservatory of Music,SPECIAL,167057
+Newbury College,COMPETITIVE,167251
+Nichols College,LESS COMPETITIVE,167260
+Massachusetts College of Liberal Arts,COMPETITIVE,167288
+Northeastern University,MOST COMPETITIVE,167358
+Elms College,VERY COMPETITIVE,167394
+Pine Manor College,LESS COMPETITIVE,167455
+Regis College,COMPETITIVE,167598
+Salem State University,LESS COMPETITIVE,167729
+Simmons College,VERY COMPETITIVE,167783
+Bard College at Simon's Rock,MOST COMPETITIVE,167792
+Smith College,MOST COMPETITIVE,167835
+Springfield College,COMPETITIVE,167899
+University of Massachusetts Dartmouth,COMPETITIVE,167987
+Stonehill College,COMPETITIVE+,167996
+Suffolk University,COMPETITIVE,168005
+Tufts University,MOST COMPETITIVE,168148
+Wellesley College,MOST COMPETITIVE,168218
+Wentworth Institute of Technology,COMPETITIVE,168227
+Western New England University,COMPETITIVE,168254
+Westfield State University,COMPETITIVE,168263
+Wheaton College,VERY COMPETITIVE,168281
+Wheelock College,COMPETITIVE,168290
+Williams College,MOST COMPETITIVE,168342
+Worcester Polytechnic Institute,MOST COMPETITIVE,168421
+Worcester State University,COMPETITIVE,168430
+Adrian College,COMPETITIVE,168528
+Albion College,COMPETITIVE,168546
+Alma College,COMPETITIVE,168591
+Andrews University,COMPETITIVE+,168740
+Aquinas College - Michigan,HIGHLY COMPETITIVE,168786
+Baker College of Flint,NONCOMPETITIVE,168847
+Calvin College,VERY COMPETITIVE+,169080
+Central Michigan University,COMPETITIVE,169248
+"Concordia University, Ann Arbor",VERY COMPETITIVE,169363
+College for Creative Studies,SPECIAL,169442
+Davenport University,LESS COMPETITIVE,169479
+University of Detroit Mercy,COMPETITIVE+,169716
+Eastern Michigan University,COMPETITIVE,169798
+Ferris State University,COMPETITIVE,169910
+Kettering University,HIGHLY COMPETITIVE,169983
+Cornerstone University,COMPETITIVE,170037
+Grand Valley State University,COMPETITIVE+,170082
+Hillsdale College,MOST COMPETITIVE,170286
+Hope College,VERY COMPETITIVE,170301
+Kalamazoo College,HIGHLY COMPETITIVE+,170532
+Lake Superior State University,COMPETITIVE,170639
+Lawrence Technological University,VERY COMPETITIVE,170675
+Madonna University,COMPETITIVE,170806
+Marygrove College,NONCOMPETITIVE,170842
+Rochester College,LESS COMPETITIVE,170967
+University of Michigan/Ann Arbor,MOST COMPETITIVE,170976
+Michigan State University,VERY COMPETITIVE+,171100
+Michigan Technological University,VERY COMPETITIVE+,171128
+University of Michigan/Dearborn,VERY COMPETITIVE,171137
+University of Michigan-Flint,COMPETITIVE+,171146
+Northern Michigan University,COMPETITIVE,171456
+Northwood University - Michigan,LESS COMPETITIVE,171492
+Oakland University,COMPETITIVE,171571
+Olivet College,LESS COMPETITIVE,171599
+Saginaw Valley State University,COMPETITIVE,172051
+Siena Heights University,COMPETITIVE,172264
+Spring Arbor University,COMPETITIVE,172334
+Wayne State University,COMPETITIVE,172644
+Western Michigan University,COMPETITIVE,172699
+Augsburg College,COMPETITIVE,173045
+Bemidji State University,VERY COMPETITIVE,173124
+Bethel University,VERY COMPETITIVE,173160
+Carleton College,MOST COMPETITIVE,173258
+Concordia College - Moorhead,COMPETITIVE+,173300
+Concordia University Saint Paul,COMPETITIVE,173328
+Gustavus Adolphus College,HIGHLY COMPETITIVE,173647
+Hamline University,VERY COMPETITIVE,173665
+Macalester College,MOST COMPETITIVE,173902
+"Minnesota State University, Mankato",COMPETITIVE,173920
+Metropolitan State University,COMPETITIVE,174020
+University of Minnesota/Twin Cities,HIGHLY COMPETITIVE+,174066
+University of Minnesota Crookston,COMPETITIVE,174075
+Minneapolis College of Art and Design,SPECIAL,174127
+University of Minnesota/Duluth,COMPETITIVE+,174233
+University of Minnesota/Morris,VERY COMPETITIVE,174251
+"Minnesota State University, Moorhead",COMPETITIVE,174358
+North Central University,COMPETITIVE,174437
+University of Northwestern - St. Paul,COMPETITIVE,174491
+College of Saint Benedict,COMPETITIVE,174747
+St. Cloud State University,COMPETITIVE,174783
+Saint John's University,COMPETITIVE,174792
+Saint Mary's University of Minnesota,VERY COMPETITIVE,174817
+St. Olaf College,HIGHLY COMPETITIVE+,174844
+College of St. Scholastica,COMPETITIVE,174899
+University of St. Thomas,VERY COMPETITIVE+,174914
+St. Catherine University,VERY COMPETITIVE,175005
+Southwest Minnesota State University,COMPETITIVE,175078
+Winona State University,COMPETITIVE,175272
+Alcorn State University,COMPETITIVE,175342
+Belhaven University,COMPETITIVE,175421
+Blue Mountain College,VERY COMPETITIVE,175430
+Delta State University,COMPETITIVE,175616
+Jackson State University,LESS COMPETITIVE,175856
+Millsaps College,COMPETITIVE+,175980
+University of Mississippi,COMPETITIVE+,176017
+Mississippi University for Women,COMPETITIVE,176035
+Mississippi Valley State University,LESS COMPETITIVE,176044
+Mississippi College,COMPETITIVE,176053
+Mississippi State University,COMPETITIVE+,176080
+Rust College,COMPETITIVE,176318
+University of Southern Mississippi,COMPETITIVE,176372
+Tougaloo College,NONCOMPETITIVE,176406
+William Carey University,LESS COMPETITIVE,176479
+Avila University,COMPETITIVE,176628
+Cox College,NONCOMPETITIVE,176770
+Central Methodist University,VERY COMPETITIVE,176947
+University of Central Missouri,COMPETITIVE,176965
+Columbia College - Missouri,COMPETITIVE,177065
+Culver-Stockton College,COMPETITIVE,177144
+Drury University,VERY COMPETITIVE,177214
+Evangel University,COMPETITIVE,177339
+Fontbonne University,COMPETITIVE,177418
+Harris-Stowe State University,NONCOMPETITIVE,177551
+Kansas City Art Institute,COMPETITIVE+,177746
+Lincoln University,NONCOMPETITIVE,177940
+Lindenwood University,COMPETITIVE,177968
+Maryville University of Saint Louis,VERY COMPETITIVE+,178059
+Missouri Baptist University,COMPETITIVE,178244
+Missouri Southern State University,COMPETITIVE,178341
+Missouri Valley College,COMPETITIVE,178369
+Missouri Western State University,Not Available,178387
+University of Missouri/Columbia,VERY COMPETITIVE,178396
+University of Missouri-Kansas City,VERY COMPETITIVE,178402
+Missouri University of Science and Technology,HIGHLY COMPETITIVE,178411
+University of Missouri-St. Louis,COMPETITIVE,178420
+Truman State University,HIGHLY COMPETITIVE,178615
+Northwest Missouri State University,COMPETITIVE,178624
+College of the Ozarks,COMPETITIVE,178697
+Park University,COMPETITIVE,178721
+Research College of Nursing,SPECIAL,178989
+Rockhurst University,COMPETITIVE,179043
+Saint Louis University,HIGHLY COMPETITIVE,179159
+Southwest Baptist University,LESS COMPETITIVE,179326
+Stephens College,COMPETITIVE,179548
+Southeast Missouri State University,COMPETITIVE,179557
+Missouri State University,COMPETITIVE+,179566
+Washington University in St. Louis,MOST COMPETITIVE,179867
+Webster University,COMPETITIVE,179894
+Westminster College,COMPETITIVE,179946
+William Jewell College,COMPETITIVE+,179955
+William Woods University,COMPETITIVE,179964
+Carroll College,COMPETITIVE+,180106
+Montana State University Billings,COMPETITIVE,180179
+University of Great Falls,COMPETITIVE,180258
+Montana Tech of the University of Montana,COMPETITIVE+,180416
+Montana State University,COMPETITIVE+,180461
+University of Montana,COMPETITIVE,180489
+Montana State University-Northern,NONCOMPETITIVE,180522
+Rocky Mountain College,COMPETITIVE,180595
+The University of Montana Western,LESS COMPETITIVE,180692
+Bellevue University,NONCOMPETITIVE,180814
+Clarkson College,COMPETITIVE,180832
+Chadron State College,NONCOMPETITIVE,180948
+Concordia University Nebraska,VERY COMPETITIVE,180984
+Creighton University,VERY COMPETITIVE+,181002
+Doane University,VERY COMPETITIVE,181020
+Hastings College,COMPETITIVE+,181127
+University of Nebraska - Kearney,LESS COMPETITIVE,181215
+Nebraska Methodist College,SPECIAL,181297
+Midland University,Not Available,181330
+University of Nebraska - Omaha,COMPETITIVE,181394
+Nebraska Wesleyan University,COMPETITIVE+,181446
+University of Nebraska - Lincoln,VERY COMPETITIVE,181464
+Peru State College,NONCOMPETITIVE,181534
+College of Saint Mary,COMPETITIVE,181604
+Union College,COMPETITIVE,181738
+Wayne State College,COMPETITIVE,181783
+York College,COMPETITIVE,181853
+"University of Nevada, Las Vegas",COMPETITIVE,182281
+University of Nevada/Reno,COMPETITIVE,182290
+Sierra Nevada College,COMPETITIVE,182458
+Colby-Sawyer College,COMPETITIVE,182634
+Dartmouth College,MOST COMPETITIVE,182670
+Franklin Pierce University,COMPETITIVE,182795
+New England College,COMPETITIVE,182980
+Southern New Hampshire University,COMPETITIVE,183026
+University of New Hampshire,VERY COMPETITIVE,183044
+Keene State College,LESS COMPETITIVE,183062
+Plymouth State University,LESS COMPETITIVE,183080
+Rivier University,VERY COMPETITIVE,183211
+Saint Anselm College,COMPETITIVE+,183239
+Granite State College,SPECIAL,183257
+Thomas More College of Liberal Arts,COMPETITIVE,183275
+Bloomfield College,LESS COMPETITIVE,183822
+Caldwell University,NONCOMPETITIVE,183910
+Centenary College,COMPETITIVE,183974
+Drew University/College of Liberal Arts,VERY COMPETITIVE,184348
+Fairleigh Dickinson University/Metropolitan Campus,COMPETITIVE,184603
+Felician University,LESS COMPETITIVE,184612
+Fairleigh Dickinson University/College at Florham,COMPETITIVE,184694
+Georgian Court University,LESS COMPETITIVE,184773
+Rowan University,VERY COMPETITIVE+,184782
+New Jersey City University,LESS COMPETITIVE,185129
+Kean University,COMPETITIVE,185262
+Monmouth University,COMPETITIVE,185572
+Montclair State University,LESS COMPETITIVE,185590
+New Jersey Institute of Technology,VERY COMPETITIVE,185828
+Princeton University,MOST COMPETITIVE,186131
+Ramapo College of New Jersey,COMPETITIVE,186201
+Rider University,COMPETITIVE,186283
+Rutgers University - Camden,COMPETITIVE,186371
+Rutgers University - New Brunswick,HIGHLY COMPETITIVE,186380
+Rutgers University - Newark,COMPETITIVE,186399
+Saint Peter's University,COMPETITIVE,186432
+Seton Hall University,COMPETITIVE,186584
+College of Saint Elizabeth,LESS COMPETITIVE,186618
+Stevens Institute of Technology,MOST COMPETITIVE,186867
+Stockton University,Not Available,186876
+Thomas Edison State University,NONCOMPETITIVE,187046
+The College of New Jersey,HIGHLY COMPETITIVE,187134
+William Paterson University of New Jersey,COMPETITIVE,187444
+Eastern New Mexico University,COMPETITIVE,187648
+New Mexico Highlands University,NONCOMPETITIVE,187897
+New Mexico Institute of Mining and Technology,HIGHLY COMPETITIVE,187967
+University of New Mexico,COMPETITIVE,187985
+New Mexico State University,COMPETITIVE,188030
+Santa Fe University of Art and Design,SPECIAL,188146
+University of the Southwest,COMPETITIVE,188182
+Western New Mexico University,LESS COMPETITIVE,188304
+Vaughn College of Aeronautics and Technology,COMPETITIVE,188340
+Adelphi University,COMPETITIVE,188429
+Albany College of Pharmacy and Health Sciences,SPECIAL,188526
+Alfred University,COMPETITIVE+,188641
+Bard College,HIGHLY COMPETITIVE,189088
+Barnard College/Columbia University,MOST COMPETITIVE,189097
+Berkeley College/White Plains Campus,LESS COMPETITIVE,189228
+Boricua College,COMPETITIVE,189413
+Canisius College,COMPETITIVE,189705
+Cazenovia College,COMPETITIVE,189848
+Clarkson University,HIGHLY COMPETITIVE,190044
+Colgate University,MOST COMPETITIVE,190099
+Metropolitan College of New York,VERY COMPETITIVE,190114
+Columbia University/City of New York,MOST COMPETITIVE,190150
+Concordia College - New York,LESS COMPETITIVE,190248
+Cooper Union for the Advancement of Science and Art,MOST COMPETITIVE,190372
+Cornell University,MOST COMPETITIVE,190415
+City University of New York/Baruch College,HIGHLY COMPETITIVE,190512
+City University of New York/Brooklyn College,COMPETITIVE+,190549
+College of Staten Island CUNY,NONCOMPETITIVE,190558
+City University of New York/City College,VERY COMPETITIVE,190567
+City University of New York/Hunter College,VERY COMPETITIVE,190594
+City University of New York/John Jay College of Criminal Justice,NON COMPETITIVE,190600
+City University of New York/Lehman College,LESS COMPETITIVE,190637
+City University of New York/Meger Evers College,NONCOMPETITIVE,190646
+City University of New York/College of Technology,NONCOMPETITIVE,190655
+City University of New York/Queens College,COMPETITIVE,190664
+City University of New York/York College,LESS COMPETITIVE,190691
+D'Youville College,COMPETITIVE,190716
+Daemen College,COMPETITIVE,190725
+Dominican College,LESS COMPETITIVE,190761
+Elmira College,COMPETITIVE,190983
+Fashion Institute of Technology/State University of New York,SPECIAL,191126
+Five Towns College,COMPETITIVE,191205
+Fordham University,MOST COMPETITIVE,191241
+Hamilton College,MOST COMPETITIVE,191515
+Hartwick College,COMPETITIVE,191533
+Hilbert College,COMPETITIVE,191621
+Hobart and William Smith Colleges,HIGHLY COMPETITIVE,191630
+Hofstra University,COMPETITIVE+,191649
+Houghton College,COMPETITIVE,191676
+Iona College,COMPETITIVE,191931
+Ithaca College,VERY COMPETITIVE,191968
+The Juilliard School,SPECIAL,192110
+Keuka College,COMPETITIVE,192192
+LIM College,LESS COMPETITIVE,192271
+Le Moyne College,COMPETITIVE,192323
+LIU Brooklyn,COMPETITIVE,192439
+LIU Post,COMPETITIVE,192448
+Manhattan College,COMPETITIVE+,192703
+Manhattan School of Music,SPECIAL,192712
+Manhattanville College,COMPETITIVE+,192749
+Marist College,VERY COMPETITIVE,192819
+Marymount Manhattan College,VERY COMPETITIVE,192864
+Medaille College,COMPETITIVE,192925
+Mercy College,COMPETITIVE,193016
+Molloy College,COMPETITIVE,193292
+Monroe College,COMPETITIVE,193308
+Mount Saint Mary College,COMPETITIVE,193353
+College of Mount Saint Vincent,COMPETITIVE,193399
+Nazareth College,COMPETITIVE,193584
+The College of New Rochelle,VERY COMPETITIVE,193645
+Eugene Lang College of Liberal Arts,COMPETITIVE,193654
+New York University,MOST COMPETITIVE,193900
+Niagara University,COMPETITIVE,193973
+New York Institute of Technology,COMPETITIVE,194091
+Nyack College,NONCOMPETITIVE,194161
+Pace University,COMPETITIVE,194310
+Pratt Institute,VERY COMPETITIVE,194578
+Rensselaer Polytechnic Institute,MOST COMPETITIVE,194824
+Roberts Wesleyan College,COMPETITIVE,194958
+Rochester Institute of Technology,HIGHLY COMPETITIVE,195003
+University of Rochester,MOST COMPETITIVE,195030
+Russell Sage College,COMPETITIVE,195128
+St. Bonaventure University,COMPETITIVE,195164
+St. Francis College,LESS COMPETITIVE,195173
+St. Lawrence University,VERY COMPETITIVE,195216
+The College of Saint Rose,COMPETITIVE,195234
+St. Thomas Aquinas College,COMPETITIVE,195243
+Sarah Lawrence College,HIGHLY COMPETITIVE,195304
+Siena College,COMPETITIVE+,195474
+Skidmore College,HIGHLY COMPETITIVE,195526
+"St. Joseph's College,  New York/Brooklyn Campus",LESS COMPETITIVE,195544
+St. John Fisher College,COMPETITIVE,195720
+St. John's University,COMPETITIVE,195809
+Farmingdale State College,COMPETITIVE,196042
+State University of New York SUNY Albany,COMPETITIVE,196060
+State University of New York at Binghamton,MOST COMPETITIVE,196079
+State University of New York/University at Buffalo,COMPETITIVE+,196088
+Stony Brook University/The State University of New York,MOST COMPETITIVE,196097
+State University of New York/The College of Environmental Science and Forestry,VERY COMPETITIVE,196103
+The College at Brockport - State University of New York,COMPETITIVE,196121
+State University of New York/Buffalo State College,COMPETITIVE,196130
+State University of New York/SUNY Cortland,VERY COMPETITIVE,196149
+State University of New York/SUNY Fredonia,COMPETITIVE,196158
+State University of New York at Geneseo,VERY COMPETITIVE+,196167
+State University of New York at New Paltz,COMPETITIVE,196176
+State University of New York/SUNY Oneonta,COMPETITIVE+,196185
+State University of New York at Oswego,COMPETITIVE,196194
+State University of New York/SUNY Potsdam,COMPETITIVE+,196200
+State University of New York at Purchase,COMPETITIVE,196219
+State University of New York/College at Old Westbury,COMPETITIVE,196237
+State University of New York/SUNY Plattsburgh,COMPETITIVE,196246
+State University of New York/Empire State College,SPECIAL,196264
+State University of New York/Maritime College,COMPETITIVE,196291
+Syracuse University,VERY COMPETITIVE,196413
+Touro College,VERY COMPETITIVE,196592
+Excelsior College,SPECIAL,196680
+Union College,MOST COMPETITIVE,196866
+United States Merchant Marine Academy,HIGHLY COMPETITIVE,197027
+United States Military Academy at West Point,HIGHLY COMPETITIVE+,197036
+Utica College,COMPETITIVE,197045
+Vassar College,MOST COMPETITIVE,197133
+School of Visual Arts,SPECIAL,197151
+Wagner College,COMPETITIVE+,197197
+Webb Institute,MOST COMPETITIVE,197221
+Wells College,COMPETITIVE,197230
+Yeshiva University,VERY COMPETITIVE+,197708
+Appalachian State University,VERY COMPETITIVE,197869
+Barton College,LESS COMPETITIVE,197911
+Belmont Abbey College,COMPETITIVE,197984
+Bennett College,NON COMPETITIVE,197993
+Cabarrus College of Health Sciences,SPECIAL,198109
+Campbell University,VERY COMPETITIVE,198136
+Catawba College,COMPETITIVE,198215
+Davidson College,MOST COMPETITIVE,198385
+Duke University,MOST COMPETITIVE,198419
+East Carolina University,COMPETITIVE,198464
+Elizabeth City State University,COMPETITIVE,198507
+Elon University,VERY COMPETITIVE+,198516
+Fayetteville State University,COMPETITIVE,198543
+Gardner-Webb University,COMPETITIVE+,198561
+Greensboro College,LESS COMPETITIVE,198598
+Guilford College,COMPETITIVE,198613
+High Point University,COMPETITIVE,198695
+Johnson C. Smith University,LESS COMPETITIVE,198756
+Lees-McRae College,COMPETITIVE,198808
+Lenoir-Rhyne University,COMPETITIVE,198835
+Mars Hill University,COMPETITIVE,198899
+Meredith College,COMPETITIVE,198950
+Methodist University,COMPETITIVE,198969
+Montreat College,LESS COMPETITIVE,199032
+University of Mount Olive,COMPETITIVE,199069
+North Carolina A&T State University,LESS COMPETITIVE,199102
+University of North Carolina at Asheville,VERY COMPETITIVE+,199111
+University of North Carolina at Chapel Hill,HIGHLY COMPETITIVE+,199120
+University of North Carolina at Charlotte,COMPETITIVE,199139
+University of North Carolina at Greensboro,COMPETITIVE,199148
+North Carolina Central University,COMPETITIVE,199157
+University of North Carolina School of the Arts,SPECIAL,199184
+North Carolina State University,HIGHLY COMPETITIVE+,199193
+North Carolina Wesleyan College,COMPETITIVE,199209
+University of North Carolina at Wilmington,VERY COMPETITIVE,199218
+University of North Carolina at Pembroke,LESS COMPETITIVE,199281
+Pfeiffer University,LESS COMPETITIVE,199306
+Queens University of Charlotte,COMPETITIVE,199412
+Saint Augustine's University,COMPETITIVE,199582
+Salem College,HIGHLY COMPETITIVE,199607
+Shaw University,COMPETITIVE,199643
+St. Andrews University,LESS COMPETITIVE,199698
+Wake Forest University,MOST COMPETITIVE,199847
+Warren Wilson College,VERY COMPETITIVE,199865
+Wingate University,COMPETITIVE,199962
+Winston-Salem State University,LESS COMPETITIVE,199999
+Western Carolina University,COMPETITIVE,200004
+Dickinson State University,LESS COMPETITIVE,200059
+University of Jamestown,COMPETITIVE,200156
+The University of Mary,COMPETITIVE,200217
+Mayville State University,NONCOMPETITIVE,200226
+Minot State University,COMPETITIVE,200253
+University of North Dakota,COMPETITIVE,200280
+North Dakota State University,COMPETITIVE,200332
+Valley City State University,COMPETITIVE,200572
+The University of Akron,COMPETITIVE,200800
+Art Academy of Cincinnati,SPECIAL,201061
+Ashland University,COMPETITIVE,201104
+Baldwin Wallace University,COMPETITIVE,201195
+Bluffton University,COMPETITIVE,201371
+Bowling Green State University,COMPETITIVE,201441
+Capital University,COMPETITIVE,201548
+Case Western Reserve University,MOST COMPETITIVE,201645
+Cedarville University,VERY COMPETITIVE,201654
+Central State University,COMPETITIVE,201690
+University of Cincinnati,VERY COMPETITIVE,201885
+Cleveland Institute of Art,COMPETITIVE+,202046
+Cleveland Institute of Music,SPECIAL,202073
+Cleveland State University,COMPETITIVE,202134
+Columbus College of Art and Design,COMPETITIVE,202170
+University of Dayton,COMPETITIVE,202480
+Defiance College,COMPETITIVE,202514
+Denison University,MOST COMPETITIVE,202523
+University of Findlay,COMPETITIVE,202763
+Franklin University,SPECIAL,202806
+Heidelberg University,COMPETITIVE,203085
+Hiram College,COMPETITIVE,203128
+John Carroll University,COMPETITIVE+,203368
+Kent State University,COMPETITIVE,203517
+Kenyon College,MOST COMPETITIVE,203535
+Lake Erie College,LESS COMPETITIVE,203580
+Lourdes University,NONCOMPETITIVE,203757
+Malone University,COMPETITIVE,203775
+Marietta College,COMPETITIVE,203845
+Miami University,HIGHLY COMPETITIVE+,204024
+University of Mount Union,COMPETITIVE,204185
+Mount Vernon Nazarene University,COMPETITIVE,204194
+Mount St. Joseph University,COMPETITIVE,204200
+Muskingum University,COMPETITIVE,204264
+Oberlin College,MOST COMPETITIVE,204501
+Ohio Dominican University,COMPETITIVE+,204617
+Ohio Northern University,VERY COMPETITIVE,204635
+Ohio State University at Lima,COMPETITIVE,204671
+Ohio State University at Mansfield,COMPETITIVE,204680
+Ohio State University at Marion,COMPETITIVE,204699
+Ohio State University at Newark,COMPETITIVE,204705
+Ohio State University at Columbus,HIGHLY COMPETITIVE+,204796
+Ohio University,COMPETITIVE,204857
+Ohio Wesleyan University,VERY COMPETITIVE,204909
+Otterbein University,COMPETITIVE,204936
+University of Rio Grande & Rio Grande Community College,NONCOMPETITIVE,205203
+Shawnee State University,COMPETITIVE,205443
+Franciscan University of Steubenville,VERY COMPETITIVE,205957
+Tiffin University,COMPETITIVE,206048
+University of Toledo,NONCOMPETITIVE,206084
+Union Institute & University,SPECIAL,206279
+Urbana University,COMPETITIVE,206330
+Ursuline College,LESS COMPETITIVE,206349
+Walsh University,COMPETITIVE,206437
+Wilberforce University,COMPETITIVE,206491
+Wilmington College,COMPETITIVE,206507
+Wittenberg University,COMPETITIVE+,206525
+The College of Wooster,VERY COMPETITIVE+,206589
+Wright State University,COMPETITIVE,206604
+Xavier University,COMPETITIVE+,206622
+Youngstown State University,COMPETITIVE,206695
+Oklahoma Wesleyan University,COMPETITIVE,206835
+Southern Nazarene University,NONCOMPETITIVE,206862
+Cameron University,NONCOMPETITIVE,206914
+University of Central Oklahoma,COMPETITIVE,206941
+East Central University,COMPETITIVE,207041
+Langston University,COMPETITIVE,207209
+Northeastern State University,VERY COMPETITIVE,207263
+Northwestern Oklahoma State University,NONCOMPETITIVE,207306
+Oklahoma Christian University,VERY COMPETITIVE,207324
+Oklahoma Panhandle State University,NONCOMPETITIVE,207351
+Oklahoma State University,VERY  COMPETITIVE,207388
+Oklahoma Baptist University,COMPETITIVE,207403
+Oklahoma City University,VERY COMPETITIVE,207458
+University of Oklahoma,VERY COMPETITIVE,207500
+Oral Roberts University,COMPETITIVE,207582
+St. Gregory's University,NONCOMPETITIVE,207689
+University of Science and Arts of Oklahoma,VERY COMPETITIVE,207722
+Southeastern Oklahoma State University,COMPETITIVE,207847
+Southwestern Oklahoma State University,COMPETITIVE,207865
+University of Tulsa,HIGHLY COMPETITIVE+,207971
+Art Institute of Portland,SPECIAL,208239
+Concordia University,COMPETITIVE,208488
+Eastern Oregon University,COMPETITIVE,208646
+George Fox University,COMPETITIVE,208822
+Lewis & Clark College,HIGHLY COMPETITIVE+,209056
+Linfield College,COMPETITIVE,209065
+Marylhurst University,NONCOMPETITIVE,209108
+Northwest Christian University,COMPETITIVE,209409
+Oregon Institute of Technology,COMPETITIVE,209506
+Oregon State University,VERY COMPETITIVE,209542
+University of Oregon,COMPETITIVE,209551
+Pacific Northwest College of Art,SPECIAL,209603
+Pacific University,COMPETITIVE,209612
+Portland State University,COMPETITIVE,209807
+University of Portland,VERY COMPETITIVE,209825
+Reed College,MOST COMPETITIVE,209922
+Southern Oregon University,COMPETITIVE,210146
+Warner Pacific College,COMPETITIVE,210304
+Corban University,COMPETITIVE,210331
+Willamette University,VERY COMPETITIVE+,210401
+Western Oregon University,LESS COMPETITIVE,210429
+Bryn Athyn College,COMPETITIVE,210492
+Albright College,COMPETITIVE,210571
+Allegheny College,VERY COMPETITIVE,210669
+DeSales University,COMPETITIVE,210739
+Alvernia University,COMPETITIVE,210775
+Arcadia University,COMPETITIVE+,211088
+Bloomsburg University of Pennsylvania,LESS COMPETITIVE,211158
+Bryn Mawr College,MOST COMPETITIVE,211273
+Bucknell University,MOST COMPETITIVE,211291
+Cabrini University,LESS COMPETITIVE,211352
+California University of Pennsylvania,LESS COMPETITIVE,211361
+Carlow University,LESS COMPETITIVE,211431
+Carnegie Mellon University,MOST COMPETITIVE,211440
+Cedar Crest College,COMPETITIVE,211468
+Chatham University,COMPETITIVE,211556
+Chestnut Hill College,COMPETITIVE,211583
+Cheyney University of Pennsylvania,LESS COMPETITIVE,211608
+Clarion University of Pennsylvania,LESS COMPETITIVE,211644
+Curtis Institute of Music,SPECIAL,211893
+Delaware Valley University,COMPETITIVE,211981
+Dickinson College,MOST COMPETITIVE,212009
+Drexel University,VERY COMPETITIVE+,212054
+Duquesne University,VERY COMPETITIVE,212106
+East Stroudsburg University,COMPETITIVE,212115
+Eastern University,COMPETITIVE,212133
+Edinboro University,LESS COMPETITIVE,212160
+Elizabethtown College,COMPETITIVE,212197
+Franklin and Marshall College,HIGHLY COMPETITIVE,212577
+Gannon University,COMPETITIVE,212601
+Geneva College,COMPETITIVE,212656
+Gettysburg College,HIGHLY COMPETITIVE,212674
+Grove City College,VERY COMPETITIVE,212805
+Gwynedd Mercy University,LESS COMPETITIVE,212832
+Haverford College,MOST COMPETITIVE,212911
+Holy Family University,LESS COMPETITIVE,212984
+Immaculata University,COMPETITIVE,213011
+Indiana University of Pennsylvania,LESS COMPETITIVE,213020
+Juniata College,VERY COMPETITIVE,213251
+Keystone College,LESS COMPETITIVE,213303
+King's College,COMPETITIVE,213321
+Kutztown University of Pennsylvania,LESS COMPETITIVE,213349
+La Roche College,LESS COMPETITIVE,213358
+La Salle University,COMPETITIVE,213367
+Lafayette College,MOST COMPETITIVE,213385
+Lebanon Valley College,COMPETITIVE,213507
+Lehigh University,MOST COMPETITIVE,213543
+The Lincoln University,NON COMPETITIVE,213598
+Lock Haven University of Pennsylvania,LESS COMPETITIVE,213613
+Lycoming College,COMPETITIVE,213668
+Mansfield University of  Pennsylvania,LESS COMPETITIVE,213783
+Marywood University,COMPETITIVE,213826
+Mercyhurst University,COMPETITIVE,213987
+Messiah College,COMPETITIVE+,213996
+Millersville University of Pennsylvania,COMPETITIVE,214041
+Misericordia University,COMPETITIVE,214069
+Moore College of Art and Design,SPECIAL,214148
+Moravian College,Not Available,214157
+Mount Aloysius College,COMPETITIVE,214166
+Muhlenberg College,VERY COMPETITIVE+,214175
+Neumann University,LESS COMPETITIVE,214272
+"Penn State Erie,The Behrend College",COMPETITIVE,214591
+Penn State Altoona,COMPETITIVE,214689
+Peirce College,NONCOMPETITIVE,214883
+University of Pennsylvania,MOST COMPETITIVE,215062
+Philadelphia University,COMPETITIVE,215099
+University of the Arts,SPECIAL,215105
+Cairn University,COMPETITIVE,215114
+University of the Sciences,VERY COMPETITIVE,215132
+University of Pittsburgh at Bradford,COMPETITIVE,215266
+University of Pittsburgh at Greensburg,COMPETITIVE,215275
+University of Pittsburgh at Johnstown,COMPETITIVE,215284
+University of Pittsburgh,HIGHLY COMPETITIVE+,215293
+Point Park University,COMPETITIVE,215442
+Robert Morris University,COMPETITIVE,215655
+Rosemont College,COMPETITIVE,215691
+Saint Francis University,NONCOMPETITIVE,215743
+Saint Joseph's University,VERY COMPETITIVE+,215770
+Saint Vincent College,COMPETITIVE,215798
+University of Scranton,VERY COMPETITIVE,215929
+Seton Hill University,COMPETITIVE,215947
+Shippensburg University of Pennsylvania,COMPETITIVE,216010
+Slippery Rock University of Pennsylvania,COMPETITIVE,216038
+Susquehanna University,VERY COMPETITIVE,216278
+Swarthmore College,MOST COMPETITIVE,216287
+Temple University,VERY COMPETITIVE,216339
+Thiel College,COMPETITIVE,216357
+Ursinus College,VERY COMPETITIVE,216524
+Villanova University,MOST COMPETITIVE,216597
+Washington & Jefferson College,VERY COMPETITIVE,216667
+Waynesburg University,COMPETITIVE,216694
+West Chester University of Pennsylvania,COMPETITIVE,216764
+Westminster College,COMPETITIVE+,216807
+Widener University,COMPETITIVE,216852
+Wilkes University,COMPETITIVE,216931
+Wilson College,COMPETITIVE,217013
+York College of Pennsylvania,COMPETITIVE,217059
+Brown University,MOST COMPETITIVE,217156
+Bryant University,VERY COMPETITIVE,217165
+Providence College,VERY COMPETITIVE,217402
+Rhode Island College,LESS COMPETITIVE,217420
+University of Rhode Island,COMPETITIVE,217484
+Rhode Island School of Design,SPECIAL,217493
+Roger Williams University,COMPETITIVE+,217518
+Salve Regina University,COMPETITIVE,217536
+Allen University,NON COMPETITIVE,217624
+Charleston Southern University,COMPETITIVE,217688
+Benedict College,NONCOMPETITIVE,217721
+Southern Wesleyan University,LESS COMPETITIVE,217776
+College of Charleston,COMPETITIVE,217819
+"The Citadel, The Military College of South Carolina",COMPETITIVE,217864
+Claflin University,LESS COMPETITIVE,217873
+Clemson University,HIGHLY COMPETITIVE,217882
+Coker College,LESS COMPETITIVE,217907
+Columbia College,COMPETITIVE,217934
+Converse College,COMPETITIVE,217961
+Erskine College,COMPETITIVE,217998
+Francis Marion University,LESS COMPETITIVE,218061
+Furman University,VERY COMPETITIVE+,218070
+Lander University,COMPETITIVE,218229
+Limestone College,COMPETITIVE,218238
+Morris College,LESS COMPETITIVE,218399
+Newberry College,COMPETITIVE,218414
+Presbyterian College,VERY COMPETITIVE,218539
+University of South Carolina Aiken,COMPETITIVE,218645
+University of South Carolina at Columbia,VERY COMPETITIVE+,218663
+Coastal Carolina University,COMPETITIVE,218724
+South Carolina State University,LESS COMPETITIVE,218733
+University of South Carolina Upstate,LESS COMPETITIVE,218742
+Voorhees College,COMPETITIVE,218919
+Winthrop University,COMPETITIVE,218964
+Wofford College,VERY COMPETITIVE,218973
+Augustana University,VERY COMPETITIVE,219000
+Black Hills State University,COMPETITIVE,219046
+Dakota State University,COMPETITIVE,219082
+Dakota Wesleyan University,COMPETITIVE,219091
+Mount Marty College,COMPETITIVE,219198
+Northern State University,COMPETITIVE,219259
+Oglala Lakota College,NONCOMPETITIVE,219277
+Presentation College,NONCOMPETITIVE,219295
+South Dakota School of Mines and Technology,VERY COMPETITIVE,219347
+South Dakota State University,COMPETITIVE,219356
+Sinte Gleska University,NONCOMPETITIVE,219374
+University of Sioux Falls,COMPETITIVE,219383
+University of South Dakota,COMPETITIVE,219471
+Aquinas College,COMPETITIVE+,219578
+Austin Peay State University,COMPETITIVE,219602
+Belmont University,VERY COMPETITIVE,219709
+Bethel University,COMPETITIVE,219718
+Bryan College,COMPETITIVE,219790
+Carson-Newman University,COMPETITIVE,219806
+Christian Brothers University,VERY COMPETITIVE,219833
+Cumberland University,COMPETITIVE,219949
+Lipscomb University,VERY COMPETITIVE,219976
+East Tennessee State University,COMPETITIVE,220075
+Fisk University,LESS COMPETITIVE,220181
+Freed-Hardeman University,COMPETITIVE,220215
+King University,COMPETITIVE,220516
+Lane College,COMPETITIVE,220598
+LeMoyne-Owen College,COMPETITIVE,220604
+Lee University,COMPETITIVE,220613
+Lincoln Memorial University,COMPETITIVE,220631
+Maryville College,COMPETITIVE,220710
+Memphis College of Art,COMPETITIVE,220808
+University of Memphis,COMPETITIVE,220862
+Middle Tennessee State University,COMPETITIVE,220978
+Rhodes College,HIGHLY COMPETITIVE,221351
+Sewanee: The University of the South,MOST COMPETITIVE,221519
+Southern Adventist University,COMPETITIVE,221661
+The University of Tennessee at Chattanooga,COMPETITIVE,221740
+The University of Tennessee at Knoxville,VERY COMPETITIVE,221759
+The University of Tennessee at Martin,COMPETITIVE,221768
+Tennessee State University,COMPETITIVE,221838
+Tennessee Technological University,COMPETITIVE,221847
+Trevecca Nazarene University,COMPETITIVE,221892
+Tusculum College,COMPETITIVE,221953
+Union University,VERY COMPETITIVE,221971
+Vanderbilt University,MOST COMPETITIVE,221999
+Abilene Christian University,COMPETITIVE+,222178
+Angelo State University,NON COMPETITIVE,222831
+Austin College,VERY COMPETITIVE,222983
+Baylor University,HIGHLY COMPETITIVE,223232
+Concordia University Texas,COMPETITIVE,224004
+Dallas Baptist University,COMPETITIVE,224226
+University of Dallas,VERY COMPETITIVE+,224323
+East Texas Baptist University,COMPETITIVE,224527
+Texas A&M University at Commerce,COMPETITIVE,224554
+Hardin-Simmons University,COMPETITIVE,225247
+Houston Baptist University,COMPETITIVE,225399
+University of Houston-Downtown,COMPETITIVE,225432
+University of Houston,VERY COMPETITIVE,225511
+Howard Payne University,COMPETITIVE,225548
+Huston-Tillotson University,LESS COMPETITIVE,225575
+University of the Incarnate Word,LESS COMPETITIVE,225627
+Jarvis Christian College,NONCOMPETITIVE,225885
+Lamar University,LESS COMPETITIVE,226091
+LeTourneau University,VERY COMPETITIVE,226231
+Lubbock Christian University,COMPETITIVE,226383
+University of Mary Hardin-Baylor,COMPETITIVE+,226471
+McMurry University,LESS COMPETITIVE,226587
+Midwestern State University,COMPETITIVE,226833
+University of North Texas,COMPETITIVE,227216
+Our Lady of the Lake University,LESS COMPETITIVE,227331
+University of Texas Rio Grande Valley,NONCOMPETITIVE,227368
+Paul Quinn College,LESS COMPETITIVE,227429
+Prairie View A&M University,LESS COMPETITIVE,227526
+Rice University,MOST COMPETITIVE,227757
+St. Edward's University,VERY COMPETITIVE,227845
+University of St. Thomas - Houston,VERY COMPETITIVE,227863
+Sam Houston State University,COMPETITIVE,227881
+Schreiner University,LESS COMPETITIVE,228042
+St. Mary's University,COMPETITIVE,228149
+Southern Methodist University,MOST COMPETITIVE,228246
+Southwestern University,VERY COMPETITIVE,228343
+Stephen F. Austin State University,LESS COMPETITIVE,228431
+Texas State University,COMPETITIVE,228459
+Southwestern Adventist University,LESS COMPETITIVE,228468
+Sul Ross State University,LESS COMPETITIVE,228501
+Tarleton State University,LESS COMPETITIVE,228529
+Texas A&M University at Kingsville,LESS COMPETITIVE,228705
+Texas A&M University,VERY COMPETITIVE+,228723
+University of Texas at Arlington,LESS COMPETITIVE,228769
+University of Texas at Austin,HIGHLY COMPETITIVE,228778
+University of Texas at Dallas,VERY COMPETITIVE+,228787
+University of Texas at El Paso,NONCOMPETITIVE,228796
+Texas Christian University,HIGHLY COMPETITIVE,228875
+Texas Lutheran University,COMPETITIVE,228981
+University of Texas at San Antonio,COMPETITIVE,229027
+Texas Southern University,LESS COMPETITIVE,229063
+Texas Tech University,COMPETITIVE+,229115
+Texas Wesleyan University,COMPETITIVE,229160
+Texas Woman's University,LESS COMPETITIVE,229179
+Trinity University,HIGHLY COMPETITIVE+,229267
+Wayland Baptist University,LESS COMPETITIVE,229780
+West Texas A&M University,COMPETITIVE,229814
+Wiley College,COMPETITIVE,229887
+Brigham Young University,HIGHLY COMPETITIVE,230038
+Brigham Young University/Hawaii,COMPETITIVE,230047
+Southern Utah University,COMPETITIVE,230603
+Utah State University,COMPETITIVE,230728
+The University of Utah,VERY COMPETITIVE,230764
+Weber State University,COMPETITIVE,230782
+Westminster College,COMPETITIVE+,230807
+Bennington College,MOST COMPETITIVE,230816
+Castleton University,COMPETITIVE,230834
+Champlain College,COMPETITIVE+,230852
+Goddard College,VERY  COMPETITIVE,230889
+Green Mountain College,LESS COMPETITIVE,230898
+Johnson State College,COMPETITIVE,230913
+Lyndon State College,COMPETITIVE,230931
+Marlboro College,VERY COMPETITIVE+,230940
+Middlebury College,MOST COMPETITIVE,230959
+Norwich University,COMPETITIVE,230995
+Saint Michael's College,VERY COMPETITIVE+,231059
+College of St Joseph,LESS COMPETITIVE,231077
+Southern Vermont College,LESS COMPETITIVE,231086
+Sterling College,VERY COMPETITIVE,231095
+Vermont Technical College,COMPETITIVE,231165
+University of Vermont,HIGHLY COMPETITIVE,231174
+Averett University,LESS COMPETITIVE,231420
+Bluefield College,COMPETITIVE+,231554
+Bridgewater College,COMPETITIVE,231581
+College of William & Mary,MOST COMPETITIVE,231624
+Christopher Newport University,VERY COMPETITIVE+,231712
+Emory and Henry College,COMPETITIVE,232025
+Eastern Mennonite University,COMPETITIVE,232043
+Ferrum College,COMPETITIVE,232089
+George Mason University,VERY  COMPETITIVE,232186
+Hampden-Sydney College,COMPETITIVE+,232256
+Hampton University,LESS COMPETITIVE,232265
+Hollins University,VERY COMPETITIVE,232308
+James Madison University,VERY COMPETITIVE,232423
+Liberty University,COMPETITIVE,232557
+Longwood University,COMPETITIVE,232566
+Lynchburg College,COMPETITIVE,232609
+Mary Baldwin University,COMPETITIVE,232672
+University of Mary Washington,VERY  COMPETITIVE,232681
+Marymount University,LESS COMPETITIVE,232706
+Norfolk State University,LESS COMPETITIVE,232937
+Old Dominion University,COMPETITIVE,232982
+Radford University,LESS COMPETITIVE,233277
+Randolph-Macon College,COMPETITIVE,233295
+Randolph College,VERY COMPETITIVE,233301
+University of Richmond,MOST COMPETITIVE,233374
+Roanoke College,VERY COMPETITIVE,233426
+Shenandoah University,COMPETITIVE,233541
+Sweet Briar College,Not Available,233718
+The University of Virginia's College at Wise,LESS COMPETITIVE,233897
+Virginia Polytechnic Institute and State University,HIGHLY COMPETITIVE,233921
+Virginia Commonwealth University,COMPETITIVE,234030
+University of Virginia,MOST COMPETITIVE,234076
+Virginia Military Institute,COMPETITIVE+,234085
+Virginia State University,COMPETITIVE+,234155
+Virginia Union University,COMPETITIVE,234164
+Virginia Wesleyan College,LESS COMPETITIVE,234173
+Washington and Lee University,MOST COMPETITIVE,234207
+Central Washington University,COMPETITIVE,234827
+City University of Seattle,NON COMPETITIVE,234915
+Cornish College of the Arts,SPECIAL,235024
+Eastern Washington University,LESS COMPETITIVE,235097
+The Evergreen State College,COMPETITIVE,235167
+Gonzaga University,HIGHLY COMPETITIVE,235316
+Heritage University,NONCOMPETITIVE,235422
+Northwest University,VERY COMPETITIVE,236133
+Pacific Lutheran University,VERY COMPETITIVE,236230
+University of Puget Sound,VERY COMPETITIVE+,236328
+Saint Martin's University,COMPETITIVE,236452
+Seattle Pacific University,COMPETITIVE+,236577
+Seattle University,VERY COMPETITIVE+,236595
+Walla Walla University,NONCOMPETITIVE,236896
+Washington State University,COMPETITIVE,236939
+University of Washington,VERY COMPETITIVE,236948
+Western Washington University,COMPETITIVE+,237011
+Whitman College,MOST COMPETITIVE,237057
+Whitworth University,VERY COMPETITIVE,237066
+Alderson Broaddus University,COMPETITIVE,237118
+Bethany College,NONCOMPETITIVE,237181
+Bluefield State College,LESS COMPETITIVE,237215
+University of Charleston,COMPETITIVE,237312
+Concord University,COMPETITIVE,237330
+Davis & Elkins College,LESS COMPETITIVE,237358
+Fairmont State University,COMPETITIVE,237367
+Glenville State College,NONCOMPETITIVE,237385
+Marshall University,COMPETITIVE,237525
+Ohio Valley University,COMPETITIVE,237640
+Salem International University,LESS COMPETITIVE,237783
+"Shepherd University, West Virginia",COMPETITIVE,237792
+West Virginia State University,NONCOMPETITIVE,237899
+West Liberty University,COMPETITIVE,237932
+West Virginia University Institute of Technology,NONCOMPETITIVE,237950
+West Virginia Wesleyan College,COMPETITIVE,237969
+West Virginia University,COMPETITIVE,238032
+Wheeling Jesuit University,LESS COMPETITIVE,238078
+Alverno College,LESS COMPETITIVE,238193
+Beloit College,HIGHLY COMPETITIVE,238333
+Cardinal Stritch University,COMPETITIVE,238430
+Carroll University,COMPETITIVE+,238458
+Carthage College,COMPETITIVE,238476
+Concordia University Wisconsin,COMPETITIVE,238616
+Edgewood College,COMPETITIVE,238661
+Lakeland University,COMPETITIVE,238980
+Lawrence University,HIGHLY COMPETITIVE,239017
+Marian University,LESS COMPETITIVE,239080
+Marquette University,VERY COMPETITIVE+,239105
+Milwaukee Institute of Art and Design,SPECIAL,239309
+Milwaukee School of Engineering,HIGHLY COMPETITIVE,239318
+Mount Mary University,LESS COMPETITIVE,239390
+Northland College,COMPETITIVE+,239512
+Ripon College,COMPETITIVE+,239628
+St. Norbert College,VERY COMPETITIVE,239716
+Silver Lake College of the Holy Family,LESS COMPETITIVE,239743
+Viterbo University,COMPETITIVE,240107
+University of Wisconsin-Whitewater,COMPETITIVE,240189
+University of Wisconsin-Eau Claire,VERY COMPETITIVE,240268
+University of Wisconsin-Green Bay,COMPETITIVE,240277
+University of Wisconsin-La Crosse,COMPETITIVE+,240329
+Wisconsin Lutheran College,VERY COMPETITIVE,240338
+University of Wisconsin-Oshkosh,COMPETITIVE,240365
+University of Wisconsin-Parkside,COMPETITIVE,240374
+University of Wisconsin-Stout,COMPETITIVE,240417
+University of Wisconsin-Superior,COMPETITIVE,240426
+University of Wisconsin-Madison,MOST COMPETITIVE,240444
+University of Wisconsin-Milwaukee,COMPETITIVE,240453
+University of Wisconsin-Platteville,VERY COMPETITIVE,240462
+University of Wisconsin-River Falls,COMPETITIVE,240471
+University of Wisconsin-Stevens Point,COMPETITIVE,240480
+University of Wyoming,COMPETITIVE+,240727
+American University of Puerto Rico,Not Available,241100
+Universidad Adventista de las Antillas,Not Available,241191
+Bayamon Central University,Not Available,241225
+Caribbean University,Not Available,241377
+Pontifical Catholic University of Puerto Rico,Not Available,241410
+Universidad Metropolitana,Not Available,241739
+Conservatory of Music of Puerto Rico,Not Available,241766
+Escuela de Artes Plasticas de Puerto Rico,Not Available,241951
+Inter-American University of Puerto Rico-San Germán,Not Available,242617
+Inter-American University of Puerto Rico-Aguadilla Campus,Not Available,242626
+Inter-American University of Puerto Rico-Arecibo Campus,Not Available,242635
+Inter-American University of Puerto Rico-Barranquitas,Not Available,242644
+Inter-American University of Puerto Rico-Metropolitan Campus,Not Available,242653
+Inter-American University of Puerto Rico Ponce,Not Available,242662
+Inter-American University of Puerto Rico-Fajardo Campus,Not Available,242680
+Inter-American University of Puerto Rico-Bayamon,Not Available,242705
+"University of  Puerto Rico, at Arecibo",Not Available,243115
+"University of Puerto Rico, at Bayamon",Not Available,243133
+"University of Puerto Rico, at Cayey",Not Available,243151
+"University of Puerto Rico, at Humacao",Not Available,243179
+"University of Puerto Rico, at Mayaguez",Not Available,243197
+University of Puerto Rico-Rio Piedras campus,Not Available,243221
+University of the Sacred Heart,Not Available,243443
+"Universidad Politecnica de Puerto Rico, Hato Rey campus",Not Available,243577
+Universidad del Turabo,Not Available,243601
+Stanford University,MOST COMPETITIVE,243744
+Purdue University/West Lafayette,MOST COMPETITIVE,243780
+"St. John's College, Santa Fe",HIGHLY COMPETITIVE+,245652
+New College of Florida,MOST COMPETITIVE,262129
+Pennsylvania College of Technology,NONCOMPETITIVE,366252
+"California State University, San Marcos",LESS COMPETITIVE,366711
+Hodges University,LESS COMPETITIVE,367884
+Beacon College,COMPETITIVE,384254
+"California State University, Monterey Bay",LESS COMPETITIVE,409698
+Florida Gulf Coast University,COMPETITIVE,433660
+Pennsylvania State University - University Park,HIGHLY COMPETITIVE,479956
+Augusta University,COMPETITIVE,482149
+University of North Georgia,COMPETITIVE,482680
+Kennesaw State University,VERY COMPETITIVE,486840
+Milligan College,COMPETITIVE,486901
+Husson University,LESS COMPETITIVE,487524
+Purdue University/Northwest,COMPETITIVE,490805
+The American University of Rome,Not Available,N/A
+The American University of Rome,Not Available,N/A
+John Cabot University,Not Available,N/A
+John Cabot University,Not Available,N/A
+The American University of Cairo,Not Available,N/A
+The American University of Cairo,Not Available,N/A
+Deree - The American College of Greece,Not Available,N/A
+Deree - The American College of Greece,Not Available,N/A
+The American University of Paris,Not Available,N/A
+The American University of Paris,Not Available,N/A
+University of Calgary,Not Available,N/A
+University of Alberta,Not Available,N/A
+Simon Fraser University,Not Available,N/A
+University of British Columbia,Not Available,N/A
+University of Victoria,Not Available,N/A
+Shimer College,VERY COMPETITIVE+,N/A
+Atlantic Union College,COMPETITIVE,N/A
+Franklin University Switzerland,Not Available,N/A
+Franklin University Switzerland,Not Available,N/A
+"Richmond, The American International University in London",Not Available,N/A
+"Richmond, The American International University in London",Not Available,N/A
+Memorial University of Newfoundland,Not Available,N/A
+Daniel Webster College,COMPETITIVE,N/A
+Westminster Choir College,SPECIAL,N/A
+Dalhousie University,Not Available,N/A
+Albert A. List College of Jewish Studies,COMPETITIVE,N/A
+Mannes School of Music,SPECIAL,N/A
+University of Ottawa,Not Available,N/A
+Queen's University,Not Available,N/A
+McMaster University,Not Available,N/A
+York University,Not Available,N/A
+Ryerson University,Not Available,N/A
+University of Toronto,Not Available,N/A
+University of Guelph,Not Available,N/A
+University of Waterloo,Not Available,N/A
+University of Western Ontario,Not Available,N/A
+University of Windsor,Not Available,N/A
+Universite Laval,Not Available,N/A
+McGill University,Not Available,N/A
+Université de Montréal,Not Available,N/A
+Concordia University,Not Available,N/A
+University of Saskatchewan,Not Available,N/A
+Northwood University - Texas,LESS COMPETITIVE,N/A
+Texas A&M University at Galveston,COMPETITIVE,N/A
+Christendom College,VERY COMPETITIVE,N/A
