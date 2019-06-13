@@ -1,7 +1,9 @@
 
+# Step 0: Grab data files from NCES
 # This page is just to grab the files we need
 
 ## At the core, each "survey" file has the csv data along with a dictionary for deciphering it
+### These will be do
 
 
 ```python
@@ -21,14 +23,14 @@ import os
 def grab_zipfile(baseUrl, fileroot):
     '''uses a known static baseUrl to grab a zipped archive'''
     full_url = baseUrl + fileroot + '.zip'
-    print(full_url)
+    print(full_url, flush=True)
     remoteFile = urllib.request.urlopen(full_url)
 
     bio = io.BytesIO()
     bio.write(remoteFile.read())
 
     z = ZipFile(bio, 'r')
-    print(z.namelist())
+    print(z.namelist(), flush=True)
     z.extract(z.namelist()[0])
     return z.namelist()[0]
 ```
@@ -45,43 +47,43 @@ os.chdir('inputs')
 baseUrl = 'https://nces.ed.gov/ipeds/datacenter/data/'
 
 # Grad rate data; for each file, we typically try 2 more years than the prior year and if that file doesn't exist, try one more
-fileroot = 'GR2016'
+fileroot = 'GR2017'
 
 grab_zipfile(baseUrl, fileroot)
 grab_zipfile(baseUrl, fileroot+'_DICT')
 
 ```
 
-    https://nces.ed.gov/ipeds/datacenter/data/GR2016.zip
-    ['gr2016.csv']
-    https://nces.ed.gov/ipeds/datacenter/data/GR2016_DICT.zip
-    ['gr2016.xlsx']
+    https://nces.ed.gov/ipeds/datacenter/data/GR2017.zip
+    ['gr2017.csv']
+    https://nces.ed.gov/ipeds/datacenter/data/GR2017_DICT.zip
+    ['gr2017.xlsx']
     
 
 
 
 
-    'gr2016.xlsx'
+    'gr2017.xlsx'
 
 
 
 
 ```python
 # For grad rate only, we grab the 3 most recent years
+grab_zipfile(baseUrl, 'GR2016')
 grab_zipfile(baseUrl, 'GR2015')
-grab_zipfile(baseUrl, 'GR2014')
 ```
 
+    https://nces.ed.gov/ipeds/datacenter/data/GR2016.zip
+    ['gr2016.csv', 'gr2016_rv.csv']
     https://nces.ed.gov/ipeds/datacenter/data/GR2015.zip
     ['gr2015.csv', 'gr2015_rv.csv']
-    https://nces.ed.gov/ipeds/datacenter/data/GR2014.zip
-    ['gr2014.csv', 'gr2014_rv.csv']
     
 
 
 
 
-    'gr2014.csv'
+    'gr2015.csv'
 
 
 
@@ -121,115 +123,99 @@ grab_zipfile(baseUrl, 'HD2017_DICT')
 
 ```python
 # Admissions
-grab_zipfile(baseUrl, 'ADM2016')
-grab_zipfile(baseUrl, 'ADM2016_DICT')
+grab_zipfile(baseUrl, 'ADM2017')
+grab_zipfile(baseUrl, 'ADM2017_DICT')
 ```
 
-    https://nces.ed.gov/ipeds/datacenter/data/ADM2016.zip
-    ['adm2016.csv']
-    https://nces.ed.gov/ipeds/datacenter/data/ADM2016_DICT.zip
-    ['adm2016.xlsx']
+    https://nces.ed.gov/ipeds/datacenter/data/ADM2017.zip
+    ['adm2017.csv']
+    https://nces.ed.gov/ipeds/datacenter/data/ADM2017_DICT.zip
+    ['adm2017.xlsx']
     
 
 
 
 
-    'adm2016.xlsx'
+    'adm2017.xlsx'
 
 
 
 
 ```python
 # Ethnicity
-grab_zipfile(baseUrl, 'EF2016A')
-grab_zipfile(baseUrl, 'EF2016A_DICT')
+grab_zipfile(baseUrl, 'EF2017A')
+grab_zipfile(baseUrl, 'EF2017A_DICT')
 ```
 
-    https://nces.ed.gov/ipeds/datacenter/data/EF2016A.zip
-    ['ef2016a.csv']
-    https://nces.ed.gov/ipeds/datacenter/data/EF2016A_DICT.zip
-    ['ef2016a.xlsx']
+    https://nces.ed.gov/ipeds/datacenter/data/EF2017A.zip
+    ['ef2017a.csv']
+    https://nces.ed.gov/ipeds/datacenter/data/EF2017A_DICT.zip
+    ['ef2017a.xlsx']
     
 
 
 
 
-    'ef2016a.xlsx'
+    'ef2017a.xlsx'
 
 
 
 
 ```python
 # Retention
-grab_zipfile(baseUrl, 'EF2016D')
-grab_zipfile(baseUrl, 'EF2016D_DICT')
+grab_zipfile(baseUrl, 'EF2017D')
+grab_zipfile(baseUrl, 'EF2017D_DICT')
 ```
 
-    https://nces.ed.gov/ipeds/datacenter/data/EF2016D.zip
-    ['ef2016d.csv']
-    https://nces.ed.gov/ipeds/datacenter/data/EF2016D_DICT.zip
-    ['ef2016d.xlsx']
+    https://nces.ed.gov/ipeds/datacenter/data/EF2017D.zip
+    ['ef2017d.csv']
+    https://nces.ed.gov/ipeds/datacenter/data/EF2017D_DICT.zip
+    ['ef2017d.xlsx']
     
 
 
 
 
-    'ef2016d.xlsx'
+    'ef2017d.xlsx'
 
 
 
 
 ```python
 # Institutional Characteristics
-grab_zipfile(baseUrl, 'IC2016')
-grab_zipfile(baseUrl, 'IC2016_DICT')
+grab_zipfile(baseUrl, 'IC2017')
+grab_zipfile(baseUrl, 'IC2017_DICT')
 ```
 
-    https://nces.ed.gov/ipeds/datacenter/data/IC2016.zip
-    ['ic2016.csv']
-    https://nces.ed.gov/ipeds/datacenter/data/IC2016_DICT.zip
-    ['ic2016.xlsx']
+    https://nces.ed.gov/ipeds/datacenter/data/IC2017.zip
+    ['ic2017.csv']
+    https://nces.ed.gov/ipeds/datacenter/data/IC2017_DICT.zip
+    ['ic2017.xlsx']
     
 
 
 
 
-    'ic2016.xlsx'
+    'ic2017.xlsx'
 
 
 
 
 ```python
 # Student Financial Aid
-grab_zipfile(baseUrl, 'SFA1516')
-grab_zipfile(baseUrl, 'SFA1516_DICT')
+grab_zipfile(baseUrl, 'SFA1617')
+grab_zipfile(baseUrl, 'SFA1617_DICT')
 ```
 
-    https://nces.ed.gov/ipeds/datacenter/data/SFA1516.zip
-    ['sfa1516.csv']
-    https://nces.ed.gov/ipeds/datacenter/data/SFA1516_DICT.zip
-    ['sfa1516.xlsx']
+    https://nces.ed.gov/ipeds/datacenter/data/SFA1617.zip
+    ['sfa1617.csv']
+    https://nces.ed.gov/ipeds/datacenter/data/SFA1617_DICT.zip
+    ['sfa1617.xlsx']
     
 
 
 
 
-    'sfa1516.xlsx'
-
-
-
-
-```python
-grab_zipfile(baseUrl, 'SFA1516_DICT')
-```
-
-    https://nces.ed.gov/ipeds/datacenter/data/SFA1516_DICT.zip
-    ['sfa1516.xlsx']
-    
-
-
-
-
-    'sfa1516.xlsx'
+    'sfa1617.xlsx'
 
 

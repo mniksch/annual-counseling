@@ -1,0 +1,417 @@
+########################################################
+# Master instructions for creation of directory
+# Adds filenames in sequence along with the columns to use
+# for each
+########################################################
+
+output_file: inputs/College Directory.xlsx
+output_sheet_name: 'College Directory 2018'
+
+input_details:
+    - inputs/base_dir.csv:
+        - file_setup:
+            index_col: 0
+            encoding: cp1252
+            na_values: N/A
+            converters:
+                UNITID: safe2int
+                ZIP: safe2int
+        - UNITID:
+            type: index
+            source: UNITID
+        - College Name:
+            type: direct pull
+            source: INSTNM
+        - College Edited Name:
+            type: direct pull
+            source: CollegeName
+        - Address:
+            type: direct test
+            source: ADDR
+        - City:
+            type: direct pull
+            source: CITY
+        - State:
+            type: direct pull
+            source: STABBR
+        - ZIP:
+            type: direct pull
+            source: ZIP
+        - HBCU:
+            type: direct pull
+            source: HBCU
+        - Type:
+            type: direct pull
+            source: Type
+        - Aliases:
+            type: direct pull
+            source: IALIAS
+        - System Name:
+            type: direct pull
+            source: F1SYSNAM
+        - Longitude:
+            type: direct pull
+            source: LONGITUD
+        - Latitude:
+            type: direct pull
+            source: LATITUDE
+        - Distance From Chicago:
+            type: direct pull
+            source: DistFromChicago
+        - Barrons Rating:
+            type: direct pull
+            source: BarronsRating
+        - Simple Barrons:
+            type: direct pull
+            source: SimpleBarrons
+
+    - inputs/ic2017.csv:
+        - file_setup:
+            index_col: 0
+            encoding: cp1252
+            na_values: N/A
+            converters:
+                UNITID: safe2int
+                OPENADMP: safe2int
+        - UNITID:
+            type: index
+            source: UNITID
+        - Open Admissions:
+            type: remap
+            source: OPENADMP
+            mapping:
+                1: 'Yes'
+                2: 'No'
+                -2: N/A
+
+    - inputs/adm2016.csv:
+        - file_setup:
+            index_col: 0
+            encoding: cp1252
+            na_values: N/A
+            converters:
+                UNITID: safe2int
+        - UNITID:
+            type: index
+            source: UNITID
+        - Applicants:
+            type: direct pull
+            source: APPLCN
+        - Accepted:
+            type: direct pull
+            source: ADMSSN
+        - Enrolled:
+            type: direct pull
+            source: ENRLT
+        - '% Apply Accepted':
+            type: division
+            source: ADMSSN/APPLCN
+        - '% Accepted Enroll':
+            type: division
+            source: ENRLT/ADMSSN
+        - '# of SAT takers':
+            type: direct pull
+            source: SATNUM
+        - '# of ACT takers':
+            type: direct pull
+            source: ACTNUM
+        - '% applicants submitting SAT':
+            type: direct pull
+            source: SATPCT
+        - '% applicants submitting ACT':
+            type: direct pull
+            source: ACTPCT
+        - ACT Composite 25:
+            type: direct pull
+            source: ACTCM25
+        - ACT Composite 75:
+            type: direct pull
+            source: ACTCM75
+        - SAT Verbal 25:
+            type: direct pull
+            source: SATVR25
+        - SAT Verbal 75:
+            type: direct pull
+            source: SATVR75
+        - SAT Math 25:
+            type: direct pull
+            source: SATMT25
+        - SAT Math 75:
+            type: direct pull
+            source: SATMT75
+
+    - inputs/sfa1516.csv:
+        - file_setup:
+            index_col: 0
+            encoding: cp1252
+            na_values: N/A
+            converters:
+                UNITID: safe2int
+        - UNITID:
+            type: index
+            source: UNITID
+        - '% in state':
+            type: direct pull
+            source: SCFA12P
+        - '% out of state':
+            type: direct pull
+            source: SCFA13P
+        - '% Pell':
+            type: direct pull
+            source: UPGRNTP
+        - 'Avg Net Price': #NPIST2 for public, NPGRN2 for private
+            type: direct pull
+            source: NPGRN2
+        - 'Net Price0-30':
+            type: direct pull
+            source: NPT412
+        - 'Net Price30-48':
+            type: direct pull
+            source: NPT422
+        - 'Net Price48-75':
+            type: direct pull
+            source: NPT432
+        - 'Net Price75-110':
+            type: direct pull
+            source: NPT442
+        - 'Net Price110+':
+            type: direct pull
+            source: NPT452
+
+    - inputs/ef2016a.csv:
+        - file_setup:
+            index_col: 0
+            encoding: cp1252
+            na_values: N/A
+            reduce:
+                EFALEVEL: 2
+            converters:
+                UNITID: safe2int
+        - UNITID:
+            type: index
+            source: UNITID
+        - '# of undergraduates':
+            type: direct pull
+            source: EFTOTLT
+        - '% male':
+            type: division
+            source: EFTOTLM/EFTOTLT
+        - '% female':
+            type: division
+            source: EFTOTLW/EFTOTLT
+        - '% AA':
+            type: division
+            source: EFBKAAT/EFTOTLT
+        - '% Hispanic':
+            type: division
+            source: EFHISPT/EFTOTLT
+        - '% AA male':
+            type: division
+            source: EFBKAAM/EFTOTLT
+        - '% AA female':
+            type: division
+            source: EFBKAAW/EFTOTLT
+        - '% Hispanic male':
+            type: division
+            source: EFHISPM/EFTOTLT
+        - '% Hispanic female':
+            type: division
+            source: EFHISPW/EFTOTLT
+
+    - inputs/grad_rates.csv:
+        - file_setup:
+            index_col: 0
+            encoding: cp1252
+            na_values: N/A
+            converters:
+                UNITID: safe2int
+                Grad Cohort: safe2int
+        - UNITID:
+            type: index
+            source: UNITID
+        - Grad Cohort:
+            type: direct pull
+            source: GR_Source
+        - Adj 6yr Grad:
+            type: direct pull
+            source: Adj6yrGrad
+        - Adj 6yr Grad AA_H:
+            type: direct pull
+            source: Adj6yrAAH
+        - 6yr Grad:
+            type: direct pull
+            source: 6yrGrad
+        - 6yr Grad AA_H:
+            type: direct pull
+            source: 6yrAAH
+        - 6yr Grad AA:
+            type: direct pull
+            source: 6yrAA
+        - 6yr Grad H:
+            type: direct pull
+            source: 6yrH
+        - Xfer:
+            type: direct pull
+            source: Xfer
+        - XferAAH:
+            type: direct pull
+            source: XferAAH
+        - XferAA:
+            type: direct pull
+            source: XferAA
+        - XferH:
+            type: direct pull
+            source: XferH
+
+    - inputs/ef2016d.csv:
+        - file_setup:
+            index_col: 0
+            encoding: cp1252
+            na_values: N/A
+            converters:
+                UNITID: safe2int
+        - UNITID:
+            type: index
+            source: UNITID
+        - Retention:
+            type: direct pull
+            source: RET_PCF
+        - AdjACT25:
+            type: constant
+            source: 0.0
+        - AdjACT50:
+            type: constant
+            source: 0.0
+        - AdjACT75:
+            type: constant
+            source: 0.0
+        - Estimated AA_H Retention:
+            type: constant
+            source: 0.0
+
+    - inputs/hd2017.csv:
+        - file_setup:
+            index_col: 0
+            encoding: cp1252
+            na_values: N/A
+            converters:
+                UNITID: safe2int
+        - UNITID:
+            type: index
+            source: UNITID
+        - Carnegie Code:
+            type: remap
+            source: C15BASIC
+            mapping:
+                1: "Associate's Colleges: High Transfer-High Traditional"
+                2: "Associate's Colleges: High Transfer-Mixed Traditional/Nontraditional"
+                3: "Associate's Colleges: High Transfer-High Nontraditional"
+                4: "Associate's Colleges: Mixed Transfer/Career & Technical-High Traditional"
+                5: "Associate's Colleges: Mixed Transfer/Career & Technical-Mixed Traditional/Nontraditional"
+                6: "Associate's Colleges: Mixed Transfer/Career & Technical-High Nontraditional"
+                7: "Associate's Colleges: High Career & Technical-High Traditional"
+                8: "Associate's Colleges: High Career & Technical-Mixed Traditional/Nontraditional"
+                9: "Associate's Colleges: High Career & Technical-High Nontraditional"
+                10: "Special Focus Two-Year: Health Professions"
+                11: "Special Focus Two-Year: Technical Professions"
+                12: "Special Focus Two-Year: Arts & Design"
+                13: "Special Focus Two-Year: Other Fields"
+                14: "Baccalaureate/Associate's Colleges: Associate's Dominant"
+                15: "Doctoral Universities: Highest Research Activity"
+                16: "Doctoral Universities: Higher Research Activity"
+                17: "Doctoral Universities: Moderate Research Activity"
+                18: "Master's Colleges & Universities: Larger Programs"
+                19: "Master's Colleges & Universities: Medium Programs"
+                20: "Master's Colleges & Universities: Small Programs"
+                21: "Baccalaureate Colleges: Arts & Sciences Focus"
+                22: "Baccalaureate Colleges: Diverse Fields"
+                23: "Baccalaureate/Associate's Colleges: Mixed Baccalaureate/Associate's"
+                24: "Special Focus Four-Year: Faith-Related Institutions"
+                25: "Special Focus Four-Year: Medical Schools & Centers"
+                26: "Special Focus Four-Year: Other Health Professions Schools"
+                27: "Special Focus Four-Year: Engineering Schools"
+                28: "Special Focus Four-Year: Other Technology-Related Schools"
+                29: "Special Focus Four-Year: Business & Management Schools"
+                30: "Special Focus Four-Year: Arts, Music & Design Schools"
+                31: "Special Focus Four-Year: Law Schools"
+                32: "Special Focus Four-Year: Other Special Focus Institutions"
+                33: "Tribal Colleges"
+                -2: "Not applicable, not in Carnegie universe (not accredited or nondegree-granting)"
+        - Locale:
+            type: remap
+            source: LOCALE
+            mapping:
+                11: "City: Large"
+                12: "City: Midsize"
+                13: "City: Small"
+                21: "Suburb: Large"
+                22: "Suburb: Midsize"
+                23: "Suburb: Small"
+                31: "Town: Fringe"
+                32: "Town: Distant"
+                33: "Town: Remote"
+                41: "Rural: Fringe"
+                42: "Rural: Distant"
+                43: "Rural: Remote"
+                -3: "N/A"
+        - Locale short:
+            type: remap
+            source: LOCALE
+            mapping:
+                11: "city-based"
+                12: "city-based"
+                13: "city-based"
+                21: "suburban"
+                22: "suburban"
+                23: "suburban"
+                31: "town-based"
+                32: "town-based"
+                33: "town-based"
+                41: "rural"
+                42: "rural"
+                43: "rural"
+                -3: "N/A"
+        - Size Range:
+            type: constant
+            source: 0.0
+        - Website:
+            type: direct pull
+            source: WEBADDR
+        - OPEID:
+            type: direct pull
+            source: OPEID
+        - Sector:
+            type: remap
+            source: SECTOR
+            mapping:
+                0: "Administrative Unit"
+                1: "Public, 4-year or above"
+                2: "Private not-for-profit, 4-year or above"
+                3: "Private for-profit, 4-year or above"
+                4: "Public, 2-year"
+                5: "Private not-for-profit, 2-year"
+                6: "Private for-profit, 2-year"
+                7: "Public, less-than 2-year"
+                8: "Private not-for-profit, less-than 2-year"
+                9: "Private for-profit, less-than 2-year"
+                99: "N/A"
+
+    - raw_inputs/extra_directory_info.csv:
+        - file_setup:
+            index_col: 0
+            encoding: cp1252
+            na_values: N/A
+            converters:
+                UNITID: safe2int
+        - UNITID:
+            type: index
+            source: UNITID
+        - CEEB Code:
+            type: direct pull
+            source: CEEB
+        - ACT Code:
+            type: direct pull
+            source: ACT
+        - 'ACI?':
+            type: direct pull
+            source: ACI
