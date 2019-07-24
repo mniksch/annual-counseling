@@ -22,9 +22,9 @@ _They should view nicely within Github and can be executed locally_
 0. [Grabbing the NCES data files](Notebooks/Step_0_Grab_data.ipynb)
 1. [Calculating distance from Chicago](Notebooks/Step_1_distance_calcs.ipynb)
 2. [Cleanup Barrons Ratings](Notebooks/Step_2_get_Barrons.ipynb)
-2. [Part 2: Cleanup Barrons Ratings](Notebooks/Step_2_5_Get_Barrons_inferred.ipynb)
-3. [Calculate Grad Rates](Markdown/Step_3_get_Grad_Rates.md)
-4. [Combine the files](Markdown/Step_4_combine_files.md)
+   - [Part 2: Cleanup Barrons Ratings](Notebooks/Step_2_5_Get_Barrons_inferred.ipynb)
+4. [Calculate Grad Rates](Markdown/Step_3_get_Grad_Rates.md)
+5. [Combine the files](Markdown/Step_4_combine_files.md)
 
 ## More data/tools
 
