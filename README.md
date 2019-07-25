@@ -23,7 +23,7 @@ _They should view nicely within Github and can be executed locally_
 1. [Calculating distance from Chicago](Notebooks/Step_1_distance_calcs.ipynb)
 2. [Cleanup Barrons Ratings](Notebooks/Step_2_get_Barrons.ipynb)
    * [Part 2: Cleanup Barrons Ratings](Notebooks/Step_2_5_Get_Barrons_inferred.ipynb)
-4. [Calculate Grad Rates](Markdown/Step_3_get_Grad_Rates.md)
+4. [Calculate Grad Rates](Notebooks/Step_3_get_Grad_Rates.ipynb)
 5. [Combine the files](Markdown/Step_4_combine_files.md)
 
 ## More data/tools
