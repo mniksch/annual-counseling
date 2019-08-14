@@ -24,9 +24,11 @@ _They should view nicely within Github and can be executed locally_
 2. [Cleanup Barrons Ratings](Notebooks/Step_2_get_Barrons.ipynb)
    * [Part 2: Cleanup Barrons Ratings](Notebooks/Step_2_5_Get_Barrons_inferred.ipynb)
 4. [Calculate Grad Rates](Notebooks/Step_3_get_Grad_Rates.ipynb)
-5. [Combine the files](Markdown/Step_4_combine_files.md)
+5. [Combine the files](Notebooks/Step_4_combine_files.md)
 
 ## More data/tools
+_These are performed on student data so are not included in this public repository_
+_However, each link gives an outline or an anonymized version of the analysis_
 
 5. [Affordability analysis](ph) (should be added to the Noble directory)
 6. [Odds analysis](ph)

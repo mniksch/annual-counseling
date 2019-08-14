@@ -2,10 +2,18 @@
 # Master instructions for creation of directory
 # Adds filenames in sequence along with the columns to use
 # for each
+#
+# Most of the keys here are based on the arguments for
+# the pandas.read_csv function
+#
+# Where relevant, an "INCREMENT" comment appears next
+# to each line with a dated filename that needs to be
+# incremented based on the latest file (downloaded in
+# step 0)
 ########################################################
 
 output_file: inputs/College Directory.xlsx
-output_sheet_name: 'College Directory 2018'
+output_sheet_name: 'College Directory 2019'  # INCREMENT each year
 
 input_details:
     - inputs/base_dir.csv:
@@ -65,7 +73,7 @@ input_details:
             type: direct pull
             source: SimpleBarrons
 
-    - inputs/ic2017.csv:
+    - inputs/ic2017.csv:  # INCREMENT
         - file_setup:
             index_col: 0
             encoding: cp1252
@@ -84,7 +92,7 @@ input_details:
                 2: 'No'
                 -2: N/A
 
-    - inputs/adm2016.csv:
+    - inputs/adm2017.csv:  # INCREMENT
         - file_setup:
             index_col: 0
             encoding: cp1252
@@ -140,7 +148,7 @@ input_details:
             type: direct pull
             source: SATMT75
 
-    - inputs/sfa1516.csv:
+    - inputs/sfa1617.csv:  # INCREMENT
         - file_setup:
             index_col: 0
             encoding: cp1252
@@ -178,7 +186,7 @@ input_details:
             type: direct pull
             source: NPT452
 
-    - inputs/ef2016a.csv:
+    - inputs/ef2017a.csv:  # INCREMENT
         - file_setup:
             index_col: 0
             encoding: cp1252
@@ -263,7 +271,7 @@ input_details:
             type: direct pull
             source: XferH
 
-    - inputs/ef2016d.csv:
+    - inputs/ef2017d.csv:  # INCREMENT
         - file_setup:
             index_col: 0
             encoding: cp1252
@@ -276,7 +284,7 @@ input_details:
         - Retention:
             type: direct pull
             source: RET_PCF
-        - AdjACT25:
+        - AdjACT25:  # These next 7 will be calculated manually
             type: constant
             source: 0.0
         - AdjACT50:
@@ -285,11 +293,20 @@ input_details:
         - AdjACT75:
             type: constant
             source: 0.0
+        - AdjSAT25:
+            type: constant
+            source: 0.0
+        - AdjSAT50:
+            type: constant
+            source: 0.0
+        - AdjSAT75:
+            type: constant
+            source: 0.0
         - Estimated AA_H Retention:
             type: constant
             source: 0.0
 
-    - inputs/hd2017.csv:
+    - inputs/hd2017.csv:  # INCREMENT
         - file_setup:
             index_col: 0
             encoding: cp1252
@@ -371,7 +388,7 @@ input_details:
                 42: "rural"
                 43: "rural"
                 -3: "N/A"
-        - Size Range:
+        - Size Range:  # Will be calculated manually
             type: constant
             source: 0.0
         - Website:
@@ -396,7 +413,7 @@ input_details:
                 9: "Private for-profit, less-than 2-year"
                 99: "N/A"
 
-    - raw_inputs/extra_directory_info.csv:
+    - ../raw_inputs/extra_directory_info.csv:
         - file_setup:
             index_col: 0
             encoding: cp1252
