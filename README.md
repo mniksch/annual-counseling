@@ -22,16 +22,17 @@ _They should view nicely within Github and can be executed locally_
 0. [Grabbing the NCES data files](Notebooks/Step_0_Grab_data.ipynb)
 1. [Calculating distance from Chicago](Notebooks/Step_1_distance_calcs.ipynb)
 2. [Cleanup Barrons Ratings](Notebooks/Step_2_get_Barrons.ipynb)
-   * [Part 2: Cleanup Barrons Ratings](Notebooks/Step_2_5_Get_Barrons_inferred.ipynb)
+3. [Part 2: Cleanup Barrons Ratings](Notebooks/Step_2_5_Get_Barrons_inferred.ipynb)
 4. [Calculate Grad Rates](Notebooks/Step_3_get_Grad_Rates.ipynb)
-5. [Combine the files](Notebooks/Step_4_combine_files.md)
+5. [Calculate "Money" Codes](Notebooks/Step_3_5_Add_Affordability.ipynb)
+6. [Combine the files](Notebooks/Step_4_combine_files.ipynb)
+7. [Small step to save subsets of the directory for other tools](Notebooks/Step_5_small_directories.ipynb)
 
 ## More data/tools
 _These are performed on student data so are not included in this public repository_
 _However, each link gives an outline or an anonymized version of the analysis_
 
-5. [Affordability analysis](ph) (should be added to the Noble directory)
-6. [Odds analysis](ph)
-7. [Target calculation](ph)
-8. [Playbook creation](ph)
+7. [Odds analysis](ph)
+8. [Target calculation](ph)
+9. [Playbook creation](ph)
 9. [College Bot creation](ph)
