@@ -26,13 +26,12 @@ _They should view nicely within Github and can be executed locally_
 4. [Calculate Grad Rates](Notebooks/Step_3_get_Grad_Rates.ipynb)
 5. [Calculate "Money" Codes](Notebooks/Step_3_5_Add_Affordability.ipynb)
 6. [Combine the files](Notebooks/Step_4_combine_files.ipynb)
-7. [Small step to save subsets of the directory for other tools](Notebooks/Step_5_small_directories.ipynb)
 
 ## More data/tools
 _These are performed on student data so are not included in this public repository_
-_However, each link gives an outline or an anonymized version of the analysis_
+_However, there will eventually be a public link to each of these with sanitized documentation
 
-7. [Odds analysis](ph)
-8. [Target calculation](ph)
-9. [Playbook creation](ph)
-9. [College Bot creation](ph)
+7. [Odds analysis](Notebooks/Example_of_Analyzing_Odds.ipynb)
+8. Target calculation
+9. Playbook creation
+9. College Bot creation
