@@ -13,7 +13,7 @@
 ########################################################
 
 output_file: inputs/College Directory.xlsx
-output_sheet_name: 'College Directory 2019'  # INCREMENT each year
+output_sheet_name: 'College Directory 2020'  # INCREMENT each year
 
 input_details:
     - inputs/base_dir.csv:
@@ -73,7 +73,7 @@ input_details:
             type: direct pull
             source: SimpleBarrons
 
-    - inputs/ic2017.csv:  # INCREMENT
+    - inputs/ic2018.csv:  # INCREMENT
         - file_setup:
             index_col: 0
             encoding: cp1252
@@ -92,7 +92,7 @@ input_details:
                 2: 'No'
                 -2: N/A
 
-    - inputs/adm2017.csv:  # INCREMENT
+    - inputs/adm2018.csv:  # INCREMENT
         - file_setup:
             index_col: 0
             encoding: cp1252
@@ -148,7 +148,7 @@ input_details:
             type: direct pull
             source: SATMT75
 
-    - inputs/sfa1617.csv:  # INCREMENT
+    - inputs/sfa1718.csv:  # INCREMENT
         - file_setup:
             index_col: 0
             encoding: cp1252
@@ -186,7 +186,7 @@ input_details:
             type: direct pull
             source: NPT452
 
-    - inputs/ef2017a.csv:  # INCREMENT
+    - inputs/ef2018a.csv:  # INCREMENT
         - file_setup:
             index_col: 0
             encoding: cp1252
@@ -271,7 +271,7 @@ input_details:
             type: direct pull
             source: XferH
 
-    - inputs/ef2017d.csv:  # INCREMENT
+    - inputs/ef2018d.csv:  # INCREMENT
         - file_setup:
             index_col: 0
             encoding: cp1252
@@ -306,7 +306,7 @@ input_details:
             type: constant
             source: 0.0
 
-    - inputs/hd2017.csv:  # INCREMENT
+    - inputs/hd2018.csv:  # INCREMENT
         - file_setup:
             index_col: 0
             encoding: cp1252
