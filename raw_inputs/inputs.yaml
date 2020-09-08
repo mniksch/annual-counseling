@@ -226,7 +226,7 @@ input_details:
             type: division
             source: EFHISPW/EFTOTLT
 
-    - inputs/grad_rates.csv:
+    - ../raw_inputs/grad_rates.csv:
         - file_setup:
             index_col: 0
             encoding: cp1252
